@@ -17,11 +17,11 @@ My machine learning code written by Python.
 
 # ML libs/packages
 
-1. numpy
+**numpy**
 * Matrix operations: add, subtraction, inverse.
 * [code sample](https://github.com/ybdesire/machinelearning/blob/master/1_numpy/matrix_calc.py)
 
-2. matplotlib
+**matplotlib**
 * Python 2D plotting library.
 * code sample: samples should be opened by ipython.
    * [draw line](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/hello.ipynb)
@@ -32,17 +32,17 @@ My machine learning code written by Python.
 
 Samples should be opened by ipython.
 
-1. k-Nearest Neighbor
+**k-Nearest Neighbor**
 * [self-written kNN](https://github.com/ybdesire/machinelearning/blob/master/2_knn/knn.ipynb)
 * [kNN by lib sklearn](https://github.com/ybdesire/machinelearning/blob/master/2_knn/KNeighborsClassifier.ipynb)
 
 
-2. Decision Tree
+**Decision Tree**
 * [sklearn DecisionTreeClassifier](https://github.com/ybdesire/machinelearning/blob/master/4_decision_tree/1_DTs_predict.ipynb)
 * [digit recognition by kaggle data(MNIST)](https://github.com/ybdesire/machinelearning/blob/master/4_decision_tree/DTs_Digit_Recognition/predict_and_generate_kaggle_result.ipynb)
 * [shannon entropy calculation](https://github.com/ybdesire/machinelearning/blob/master/4_decision_tree/calc_shannon.ipynb)
 
-3. Random Forest
+**Random Forest**
 * [Random Forest result](https://github.com/ybdesire/machinelearning/blob/master/5_random_forest/RF_digit_recognition.ipynb)
 * [Random Forest predict probability](https://github.com/ybdesire/machinelearning/blob/master/5_random_forest/RF_digit_recognition_probability.ipynb)
 
