@@ -66,6 +66,8 @@ Samples should be opened by ipython.
 
 ### Regression
 
+**Linear Regression**
+[sklearn LinearRegression and linear function parameters](https://github.com/ybdesire/machinelearning/blob/master/14_regression/Linear_Regression.ipynb)
 
 ## Un-Supervised Learning
 
