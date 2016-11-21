@@ -72,6 +72,10 @@ Samples should be opened by ipython.
 
 ## Un-Supervised Learning
 
+[HMM basic](https://github.com/ybdesire/machinelearning/blob/master/15_HMM/basic_hmm.ipynb)
+
+
+
 ### Cluster
 
 **k-Nearest Neighbor**
