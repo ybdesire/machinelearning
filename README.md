@@ -90,3 +90,24 @@ Samples should be opened by ipython.
 
 1. [Image smooth, shift, rotate, zoom by scipy.ndimage](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_process_scikit-image.ipynb)
 2. Keep gray image pixel value range [0,255] when room/shift/rotate by setting order=1.   commit-220ac520a0d008e74165fe3aace42b93844aedde
+
+
+# Distributed ML
+
+## Spark
+
+### Spark Cluster Deployment
+
+### Spark One Node
+
+[Run at One Node](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_basic)
+
+
+### Spark Cluster 
+
+[Run at Cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_cluster_run_basic)
+
+
+
+
+
