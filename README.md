@@ -98,6 +98,12 @@ Samples should be opened by ipython.
 
 ### Spark Cluster Deployment
 
+[Deployment cluster environment](https://github.com/ybdesire/machinelearning/blob/master/16_spark/)
+
+## Jupyter Integrate with Spark
+
+[get sc at jupyter](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_jupyter)
+
 ### Spark One Node
 
 [Run at One Node](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_basic)
