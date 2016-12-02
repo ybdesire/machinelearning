@@ -114,6 +114,7 @@ Samples should be opened by ipython.
 [Run at Cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_cluster_run_basic)
 
 
+## Mlib
 
-
+[recommandation system](https://github.com/ybdesire/machinelearning/blob/master/16_spark/recommendation_system/basic_recommendation_system.ipynb)
 
