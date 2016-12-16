@@ -100,7 +100,7 @@ Samples should be opened by ipython.
 
 [Deployment cluster environment](https://github.com/ybdesire/machinelearning/blob/master/16_spark/)
 
-## Jupyter Integrate with Spark
+### Jupyter Integrate with Spark
 
 [get sc at jupyter](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_jupyter)
 
@@ -114,7 +114,12 @@ Samples should be opened by ipython.
 [Run at Cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_cluster_run_basic)
 
 
-## Mlib
+### Mlib
 
 [recommandation system](https://github.com/ybdesire/machinelearning/blob/master/16_spark/recommendation_system/basic_recommendation_system.ipynb)
 
+## Hadoop
+
+### Environment Setup
+
+[Standalone Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_standalone)
