@@ -98,36 +98,38 @@ Samples should be opened by ipython.
 
 ### Spark Cluster Deployment
 
-[Deployment cluster environment](https://github.com/ybdesire/machinelearning/blob/master/16_spark/)
+* [Deployment cluster environment](https://github.com/ybdesire/machinelearning/blob/master/16_spark/)
 
 ### Jupyter Integrate with Spark
 
-[get sc at jupyter](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_jupyter)
+* [get sc at jupyter](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_jupyter)
 
 ### Spark One Node
 
-[Run at One Node](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_basic)
+* [Run at One Node](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_basic)
 
 
 ### Spark Cluster 
 
-[Run at Cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_cluster_run_basic)
+* [Run at Cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_cluster_run_basic)
 
 
 ### Mlib
 
-[recommandation system](https://github.com/ybdesire/machinelearning/blob/master/16_spark/recommendation_system/basic_recommendation_system.ipynb)
+* [recommandation system](https://github.com/ybdesire/machinelearning/blob/master/16_spark/recommendation_system/basic_recommendation_system.ipynb)
 
 ## Hadoop
 
 ### Environment Setup
 
-[Standalone Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_standalone)
-[Single Node Cluster Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_cluster_singlenode)
+* [Standalone Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_standalone)
+* [Single Node Cluster Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_cluster_singlenode)
 
 ### Run Hadoop self-example at Standalone mode
 
-[hadoop example](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/run_example_standalone)
+* [hadoop example](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/run_example_standalone)
 
+### HDFS
 
+* [HDFS basic operation at single node cluster](https://github.com/ybdesire/machinelearning/tree/master/17_hadoop/env_setup_cluster_singlenode#9-hdfs-operation)
 
