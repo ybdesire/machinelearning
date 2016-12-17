@@ -123,6 +123,7 @@ Samples should be opened by ipython.
 ### Environment Setup
 
 [Standalone Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_standalone)
+[Single Node Cluster Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_cluster_singlenode)
 
 ### Run Hadoop self-example at Standalone mode
 
