@@ -149,7 +149,11 @@ Found 1 items
 -rw-r--r--   1 hduser supergroup       1366 2016-12-17 17:02 /123/README.txt
 ```
 
-## Stop
+## 10. Access Hadoop UI
+
+http://x.x.x.x:8088/cluster/nodes
+
+## 11. Stop
 
 ```
 hduser@ubuntu:/home/bin_yin/tmp/hadoop-2.7.3$ sbin/stop-all.sh
