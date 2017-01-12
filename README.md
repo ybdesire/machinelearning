@@ -3,19 +3,19 @@ Machine Learning
 
 My machine learning code written by Python.
 
-# Environment Setup
+# 1. Environment Setup
 
-1. Install Python 3.5 at Windows10.
-2. Install IPython 4.0.3.
-3. Install machine learning packages installer [Anaconda](https://www.continuum.io/downloads#_windows).
-4. Run IPython and access "http://127.0.0.1:8888" at browser.
+* (1) Install Python 3.5 at Windows10.
+* (2) Install IPython 4.0.3.
+* (3) Install machine learning packages installer [Anaconda](https://www.continuum.io/downloads#_windows).
+* (4) Run IPython and access "http://127.0.0.1:8888" at browser.
 
 ```
 > ipython notebook
 ```
 
 
-# ML libs/packages
+# 2. ML libs/packages
 
 **numpy**
 * Matrix operations: add, subtraction, inverse.
@@ -28,19 +28,18 @@ My machine learning code written by Python.
    * [draw image](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/draw_image.ipynb)
 
 
-# ML algorithms
+# 3. ML algorithms
 
 Samples should be opened by ipython.
 
-## Supervised Learning 
+## 3.1 Supervised Learning 
 
-### Classification
+### 3.1.1 Classification
 
 **Decision Tree**
 * [sklearn DecisionTreeClassifier](https://github.com/ybdesire/machinelearning/blob/master/4_decision_tree/1_DTs_predict.ipynb)
 * [digit recognition by kaggle data(MNIST)](https://github.com/ybdesire/machinelearning/blob/master/4_decision_tree/DTs_Digit_Recognition/predict_and_generate_kaggle_result.ipynb)
 * [shannon entropy calculation](https://github.com/ybdesire/machinelearning/blob/master/4_decision_tree/calc_shannon.ipynb)
-
 
 **Random Forest**
 * [Random Forest result](https://github.com/ybdesire/machinelearning/blob/master/5_random_forest/RF_digit_recognition.ipynb)
@@ -64,72 +63,73 @@ Samples should be opened by ipython.
 * [Basic useage of XGB](https://github.com/ybdesire/machinelearning/blob/master/10_xgboost/easy_example/main.py)
 * [XGB for kaggle digit recognition](https://github.com/ybdesire/machinelearning/blob/master/10_xgboost/xgboost_kaggle_digit_recognition.ipynb)
 
-### Regression
+### 3.1.2 Regression
 
 **Linear Regression**
-[sklearn LinearRegression and linear function parameters](https://github.com/ybdesire/machinelearning/blob/master/14_regression/Linear_Regression.ipynb)
-[difference between  `np.linalg.lstsq` and `linear_model.LinearRegression`](https://github.com/ybdesire/machinelearning/blob/master/14_regression/Diff_np.linalg.lstsq_LinearRegression.ipynb)
 
-## Un-Supervised Learning
+* [sklearn LinearRegression and linear function parameters](https://github.com/ybdesire/machinelearning/blob/master/14_regression/Linear_Regression.ipynb)
+* [difference between  `np.linalg.lstsq` and `linear_model.LinearRegression`](https://github.com/ybdesire/machinelearning/blob/master/14_regression/Diff_np.linalg.lstsq_LinearRegression.ipynb)
+
+## 3.2 Un-Supervised Learning
 
 [HMM basic](https://github.com/ybdesire/machinelearning/blob/master/15_HMM/basic_hmm.ipynb)
 
 
 
-### Cluster
+### 3.2.1 Cluster
 
 **k-Nearest Neighbor**
 * [self-written kNN](https://github.com/ybdesire/machinelearning/blob/master/2_knn/knn.ipynb)
 * [kNN by lib sklearn](https://github.com/ybdesire/machinelearning/blob/master/2_knn/KNeighborsClassifier.ipynb)
 * [kNN cluster example](https://github.com/ybdesire/machinelearning/blob/master/12_cluster/KNN.ipynb)
 
-### PCA
+### 3.2.2 PCA
 * [pca algorithm](https://github.com/ybdesire/machinelearning/blob/master/13_data_compression/PCA_demo.ipynb)
 
-# Image process
+# 4. Image process
 
-1. [Image smooth, shift, rotate, zoom by scipy.ndimage](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_process_scikit-image.ipynb)
-2. Keep gray image pixel value range [0,255] when room/shift/rotate by setting order=1.   commit-220ac520a0d008e74165fe3aace42b93844aedde
+* [Image smooth, shift, rotate, zoom by scipy.ndimage](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_process_scikit-image.ipynb)
+* Keep gray image pixel value range [0,255] when room/shift/rotate by setting order=1.   commit-220ac520a0d008e74165fe3aace42b93844aedde
 
 
-# Distributed ML
+# 5. Distributed ML
 
-## Spark
+## 5.1 Spark
 
-### Spark Cluster Deployment
+### 5.1.1 Spark Cluster Deployment
 
 * [Deployment cluster environment](https://github.com/ybdesire/machinelearning/blob/master/16_spark/)
 
-### Jupyter Integrate with Spark
+### 5.1.2 Jupyter Integrate with Spark
 
 * [get sc at jupyter](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_jupyter)
 
-### Spark One Node
+### 5.1.3 Spark One Node
 
 * [Run at One Node](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_basic)
 
 
-### Spark Cluster 
+### 5.1.4 Spark Cluster 
 
 * [Run at Cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_cluster_run_basic)
 
 
-### Mlib
+### 5.1.5 Mlib
 
 * [recommandation system](https://github.com/ybdesire/machinelearning/blob/master/16_spark/recommendation_system/basic_recommendation_system.ipynb)
 
-## Hadoop
+## 5.2 Hadoop
 
-### Environment Setup
+### 5.2.1 Environment Setup
 
 * [Standalone Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_standalone)
 * [Single Node Cluster Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_cluster_singlenode)
 
-### Run Hadoop self-example at Standalone mode
+### 5.2.2 Run Hadoop self-example at Standalone mode
 
 * [hadoop example](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/run_example_standalone)
 
-### HDFS
+### 5.2.3 HDFS
 
 * [HDFS basic operation at single node cluster](https://github.com/ybdesire/machinelearning/tree/master/17_hadoop/env_setup_cluster_singlenode#9-hdfs-operation)
 
