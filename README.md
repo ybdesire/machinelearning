@@ -74,8 +74,6 @@ Samples should be opened by ipython.
 
 [HMM basic](https://github.com/ybdesire/machinelearning/blob/master/15_HMM/basic_hmm.ipynb)
 
-
-
 ### 3.2.1 Cluster
 
 **k-Nearest Neighbor**
@@ -86,50 +84,58 @@ Samples should be opened by ipython.
 ### 3.2.2 PCA
 * [pca algorithm](https://github.com/ybdesire/machinelearning/blob/master/13_data_compression/PCA_demo.ipynb)
 
-# 4. Image process
+
+# 4. Feature Engineering
+
+## 4.1 Working With Text Data
+
+[Extract 3 types of text feature: bag of words, TF, TF-IDF](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/work_with_text_data_basic.ipynb)
+
+
+# 5. Image process
 
 * [Image smooth, shift, rotate, zoom by scipy.ndimage](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_process_scikit-image.ipynb)
 * Keep gray image pixel value range [0,255] when room/shift/rotate by setting order=1.   commit-220ac520a0d008e74165fe3aace42b93844aedde
 
 
-# 5. Distributed ML
+# 6. Distributed ML
 
-## 5.1 Spark
+## 6.1 Spark
 
-### 5.1.1 Spark Cluster Deployment
+### 6.1.1 Spark Cluster Deployment
 
 * [Deployment cluster environment](https://github.com/ybdesire/machinelearning/blob/master/16_spark/)
 
-### 5.1.2 Jupyter Integrate with Spark
+### 6.1.2 Jupyter Integrate with Spark
 
 * [get sc at jupyter](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_jupyter)
 
-### 5.1.3 Spark One Node
+### 6.1.3 Spark One Node
 
 * [Run at One Node](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_basic)
 
 
-### 5.1.4 Spark Cluster 
+### 6.1.4 Spark Cluster 
 
 * [Run at Cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_cluster_run_basic)
 
 
-### 5.1.5 Mlib
+### 6.1.5 Mlib
 
 * [recommandation system](https://github.com/ybdesire/machinelearning/blob/master/16_spark/recommendation_system/basic_recommendation_system.ipynb)
 
-## 5.2 Hadoop
+## 6.2 Hadoop
 
-### 5.2.1 Environment Setup
+### 6.2.1 Environment Setup
 
 * [Standalone Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_standalone)
 * [Single Node Cluster Environment Setup](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/env_setup_cluster_singlenode)
 
-### 5.2.2 Run Hadoop self-example at Standalone mode
+### 6.2.2 Run Hadoop self-example at Standalone mode
 
 * [hadoop example](https://github.com/ybdesire/machinelearning/blob/master/17_hadoop/run_example_standalone)
 
-### 5.2.3 HDFS
+### 6.2.3 HDFS
 
 * [HDFS basic operation at single node cluster](https://github.com/ybdesire/machinelearning/tree/master/17_hadoop/env_setup_cluster_singlenode#9-hdfs-operation)
 
