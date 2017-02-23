@@ -85,6 +85,11 @@ Samples should be opened by ipython.
 * [pca algorithm](https://github.com/ybdesire/machinelearning/blob/master/13_data_compression/PCA_demo.ipynb)
 
 
+## 3.3 Model evaluation
+
+* [KFold and StratifiedKFold](https://github.com/ybdesire/machinelearning/blob/master/19_model_evaluate_selection/KFold.ipynb)
+
+
 # 4. Feature Engineering
 
 ## 4.1 Working With Text Data
