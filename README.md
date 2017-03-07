@@ -143,6 +143,7 @@ Samples should be opened by ipython.
 ### 6.1.5 Mlib
 
 * [recommandation system](https://github.com/ybdesire/machinelearning/blob/master/16_spark/recommendation_system/basic_recommendation_system.ipynb)
+* [kmeans at cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_mllib/kmeans_run_cluster)
 
 ## 6.2 Hadoop
 
