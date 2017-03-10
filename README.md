@@ -17,15 +17,24 @@ My machine learning code written by Python.
 
 # 2. ML libs/packages
 
-**numpy**
+
+## 2.1 numpy
+
 * Matrix operations: add, subtraction, inverse.
 * [code sample](https://github.com/ybdesire/machinelearning/blob/master/1_numpy/matrix_calc.py)
 
-**matplotlib**
+
+## 2.2 matplotlib
+
 * Python 2D plotting library.
 * code sample: samples should be opened by ipython.
    * [draw line](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/hello.ipynb)
    * [draw image](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/draw_image.ipynb)
+
+
+## 2.3 scipy
+
+* [leastsq](https://github.com/ybdesire/machinelearning/blob/master/20_scipy/leastsq.ipynb)
 
 
 # 3. ML algorithms
