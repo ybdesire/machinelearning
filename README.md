@@ -17,15 +17,24 @@ My machine learning code written by Python.
 
 # 2. ML libs/packages
 
-**numpy**
+
+## 2.1 numpy
+
 * Matrix operations: add, subtraction, inverse.
 * [code sample](https://github.com/ybdesire/machinelearning/blob/master/1_numpy/matrix_calc.py)
 
-**matplotlib**
+
+## 2.2 matplotlib
+
 * Python 2D plotting library.
 * code sample: samples should be opened by ipython.
    * [draw line](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/hello.ipynb)
    * [draw image](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/draw_image.ipynb)
+
+
+## 2.3 scipy
+
+* [leastsq](https://github.com/ybdesire/machinelearning/blob/master/20_scipy/leastsq.ipynb)
 
 
 # 3. ML algorithms
@@ -35,6 +44,10 @@ Samples should be opened by ipython.
 ## 3.1 Supervised Learning 
 
 ### 3.1.1 Classification
+
+**Linear Model**
+* [Linear Discriminant Analysis](https://github.com/ybdesire/machinelearning/blob/master/21_linear_model/lda.ipynb)
+
 
 **Decision Tree**
 * [sklearn DecisionTreeClassifier](https://github.com/ybdesire/machinelearning/blob/master/4_decision_tree/1_DTs_predict.ipynb)
@@ -143,6 +156,7 @@ Samples should be opened by ipython.
 ### 6.1.5 Mlib
 
 * [recommandation system](https://github.com/ybdesire/machinelearning/blob/master/16_spark/recommendation_system/basic_recommendation_system.ipynb)
+* [kmeans at cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_mllib/kmeans_run_cluster)
 
 ## 6.2 Hadoop
 
