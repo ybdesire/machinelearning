@@ -27,3 +27,7 @@
 * [Python写Spark程序，在Spark单机上运行](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_local_run_basic)
 * [Python写Spark程序，在Spark集群上运行](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_cluster_run_basic)
 
+
+# Spark分布式程序
+
+* [6 Slave 分布式特征提取例程](https://github.com/ybdesire/machinelearning/blob/master/16_spark/file_process_distributed)

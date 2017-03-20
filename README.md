@@ -151,7 +151,7 @@ Samples should be opened by ipython.
 ### 6.1.4 Spark Cluster 
 
 * [Run at Cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_cluster_run_basic)
-
+* [Distributed programming demo for feature extraction](https://github.com/ybdesire/machinelearning/blob/master/16_spark/file_process_distributed)
 
 ### 6.1.5 Mlib
 
