@@ -35,6 +35,7 @@ My machine learning code written by Python.
 ## 2.3 scipy
 
 * [leastsq](https://github.com/ybdesire/machinelearning/blob/master/20_scipy/leastsq.ipynb)
+* [load matlab mat file](https://github.com/ybdesire/machinelearning/blob/master/20_scipy/load_matlab_mat_file.ipynb)
 
 
 # 3. ML algorithms
