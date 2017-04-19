@@ -60,6 +60,10 @@ Samples should be opened by ipython.
 * [Random Forest predict probability](https://github.com/ybdesire/machinelearning/blob/master/5_random_forest/RF_digit_recognition_probability.ipynb)
 
 
+**SVM**
+* [SVM with diffirent kernels](https://github.com/ybdesire/machinelearning/blob/master/22_svm/svm_kernel.ipynb)
+
+
 **Neural Network**
 * [Basic Three Layers Network](https://github.com/ybdesire/machinelearning/blob/master/6_NN/toy_example.ipynb)
 
