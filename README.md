@@ -20,16 +20,13 @@ My machine learning code written by Python.
 
 ## 2.1 numpy
 
-* Matrix operations: add, subtraction, inverse.
-* [code sample](https://github.com/ybdesire/machinelearning/blob/master/1_numpy/matrix_calc.py)
+* [Matrix operations: add, subtraction, inverse](https://github.com/ybdesire/machinelearning/blob/master/1_numpy/matrix_calc.py)
 
 
 ## 2.2 matplotlib
 
-* Python 2D plotting library.
-* code sample: samples should be opened by ipython.
-   * [draw line](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/hello.ipynb)
-   * [draw image](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/draw_image.ipynb)
+* [draw line](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/hello.ipynb)
+* [draw image](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/draw_image.ipynb)
 
 
 ## 2.3 scipy
@@ -90,7 +87,7 @@ Samples should be opened by ipython.
 
 ## 3.2 Un-Supervised Learning
 
-[HMM basic](https://github.com/ybdesire/machinelearning/blob/master/15_HMM/basic_hmm.ipynb)
+* [HMM basic](https://github.com/ybdesire/machinelearning/blob/master/15_HMM/basic_hmm.ipynb)
 
 ### 3.2.1 Cluster
 
