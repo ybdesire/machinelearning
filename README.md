@@ -190,8 +190,17 @@ opencv 2.4.9 & windows-7
 
 # 7. NLP
 
-* [n-gram](https://github.com/ybdesire/machinelearning/blob/master/9_NLP/1_ngram/3grams.py)
+## 7.1 nltk
+* [nltk basic](https://github.com/ybdesire/machinelearning/blob/master/9_NLP/3_nltk/nltk_intro.ipynb)
+
+
+## 7.2 word2vec
 * [word2vec basic](https://github.com/ybdesire/machinelearning/blob/master/9_NLP/2_word2vec/word2vec_intro.ipynb)
+
+
+## 7.3 Others
+
+* [n-gram](https://github.com/ybdesire/machinelearning/blob/master/9_NLP/1_ngram/3grams.py)
 * [preprocess for en text](https://github.com/ybdesire/machinelearning/blob/master/9_NLP/preprocess_en_text/Basic_Preprocess_En.ipynb)
 * [Bags of words feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
 * [TF, TF-IDF feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
