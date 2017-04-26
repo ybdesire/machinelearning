@@ -30,7 +30,7 @@ pip install --upgrade tensorflow
 get error
 
 ```
-FileNotFoundError: [WinError 2] 系统找不到指定的文件。: 'C:\\Users\\biny\\Anaconda3\\envs\\envtf\\li
+FileNotFoundError: [WinError 2] The system cannot find the file specified:  'C:\\Users\\biny\\Anaconda3\\envs\\envtf\\li
 b\\site-packages\\setuptools-27.2.0-py3.5.egg'
 ```
 
