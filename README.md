@@ -113,7 +113,7 @@ Samples should be opened by ipython.
 ## 3.4 Tensorflow
 
 * [Install Tensorflow at windows](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/install_tf_windows.md)
-* []()
+* [softmax regression at mnist dataset](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/tf_softmax_regression_mnist.ipynb)
 
 
 # 4. Feature Engineering
