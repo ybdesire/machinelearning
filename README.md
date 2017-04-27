@@ -118,6 +118,9 @@ Samples should be opened by ipython.
 
 ## 3.5 Incremental learning
 
+* [Incremental learning by SGDClassifier partial_fit](https://github.com/ybdesire/machinelearning/blob/master/24_incremental_learning/SGDClassifier_partial_fit.ipynb)
+
+
 # 4. Feature Engineering
 
 ## 4.1 Working With Text Data
