@@ -116,7 +116,12 @@ Samples should be opened by ipython.
 * [softmax regression at mnist dataset](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/tf_softmax_regression_mnist.ipynb)
 
 
-## 3.5 Incremental learning
+## 3.5 keras
+
+* [Install keras at Windows](https://github.com/ybdesire/machinelearning/blob/master/25_keras/install_at_win_conda_tf)
+
+
+## 3.6 Incremental learning
 
 * [Incremental learning by SGDClassifier partial_fit](https://github.com/ybdesire/machinelearning/blob/master/24_incremental_learning/SGDClassifier_partial_fit.ipynb)
 
