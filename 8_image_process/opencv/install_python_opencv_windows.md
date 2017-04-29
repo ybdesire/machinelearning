@@ -1,7 +1,7 @@
 # Environment Setup
 
 * python 2.7 virtual env
-* download opencv-3.1.0.exe
+* download opencv-3.1.0.exe from http://opencv.org/releases.html
 * extract opencv-3.1.0
 * copy opencv-3.1.0\build\python\2.7\x64\cv2.pyd to D:\Projects\py2env\Lib\site-packages
 * import the package at py code
