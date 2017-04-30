@@ -145,7 +145,7 @@ Samples should be opened by ipython.
 ### 5.1.1 OpenCV Python
 
 **Installation**
-* [Install opencv-python at Win-64 by conda py2 env](https://github.com/ybdesire/machinelearning/blob/master/ 8_image_process/opencv/install_opencv_windows_by_conda_env_py2.md)
+* [Install opencv-python at Win-64 by conda py2 env](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/opencv/install_opencv_windows_by_conda_env_py2.md)
 * [Install opencv-python at Win-64 with conda(python3)](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/opencv/install_opencv_windows_by_conda_py3.md)
 * [Install opencv-python at Win by py2](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/opencv/install_python_opencv_windows.md)
 
