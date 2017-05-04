@@ -82,6 +82,8 @@ Samples should be opened by ipython.
 
 * [sklearn LinearRegression and linear function parameters](https://github.com/ybdesire/machinelearning/blob/master/14_regression/Linear_Regression.ipynb)
 * [difference between  `np.linalg.lstsq` and `linear_model.LinearRegression`](https://github.com/ybdesire/machinelearning/blob/master/14_regression/Diff_np.linalg.lstsq_LinearRegression.ipynb)
+* [regression by CNN](https://github.com/ybdesire/machinelearning/tree/master/11_CNN/cnn_regression_example/cnn_regression_example.ipynb)
+
 
 ## 3.2 Un-Supervised Learning
 
