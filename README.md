@@ -117,18 +117,23 @@ Samples should be opened by ipython.
 * [corss validation](https://github.com/ybdesire/machinelearning/blob/master/19_model_evaluate_selection/cross_validation_simplest.ipynb)
 
 
-## 3.4 Tensorflow
+## 3.4 Model selection
+
+* [GridSearchCV](https://github.com/ybdesire/machinelearning/blob/master/19_model_evaluate_selection/grid_search.ipynb)
+
+
+## 3.5 Tensorflow
 
 * [Install Tensorflow at windows](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/install_tf_windows.md)
 * [softmax regression at mnist dataset](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/tf_softmax_regression_mnist.ipynb)
 
 
-## 3.5 keras
+## 3.6 keras
 
 * [Install keras at Windows](https://github.com/ybdesire/machinelearning/blob/master/25_keras/install_at_win_conda_tf)
 
 
-## 3.6 Incremental learning
+## 3.7 Incremental learning
 
 * [Incremental learning by SGDClassifier partial_fit](https://github.com/ybdesire/machinelearning/blob/master/24_incremental_learning/SGDClassifier_partial_fit.ipynb)
 
