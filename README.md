@@ -27,7 +27,8 @@ My machine learning code written by Python.
 
 * [draw line](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/hello.ipynb)
 * [draw image](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/draw_image.ipynb)
-
+* [draw 2 lists to bar](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/2list_to_bar.ipynb)
+* [draw bar with x](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/bar.ipynb)
 
 ## 2.3 scipy
 
