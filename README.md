@@ -123,6 +123,8 @@ Samples should be opened by ipython.
 
 * [GridSearchCV](https://github.com/ybdesire/machinelearning/blob/master/19_model_evaluate_selection/grid_search.ipynb)
 * [train & test split](19_model_evaluate_selection/train_test_split.ipynb)
+* [Learning Curves](19_model_evaluate_selection/learning_curve.ipynb)
+
 
 ## 3.5 Tensorflow
 
