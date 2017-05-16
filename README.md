@@ -85,6 +85,10 @@ Samples should be opened by ipython.
 * [XGB for kaggle digit recognition](https://github.com/ybdesire/machinelearning/blob/master/10_xgboost/xgboost_kaggle_digit_recognition.ipynb)
 
 
+**DBN**
+* [Install DBN lib at win](27_DBN/install_win.md)
+* [DBN code example for python](27_DBN/dbn_iris.py)
+
 ### 3.1.2 Regression
 
 **Linear Regression**
