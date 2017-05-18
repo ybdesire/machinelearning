@@ -256,7 +256,7 @@ opencv 2.4.9 & windows-7
 # 8. Small project/features
 
 * [Human face image completion](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_completion_face.ipynb)
-
+* [Human detection by opencv hug & svm](8_image_process/opencv/image_human_detection/human_detection.ipynb)
 
 
 
