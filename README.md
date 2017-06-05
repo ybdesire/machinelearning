@@ -89,6 +89,11 @@ Samples should be opened by ipython.
 * [Install DBN lib at win](27_DBN/install_win.md)
 * [DBN code example for python](27_DBN/dbn_iris.py)
 
+
+**RNN**
+* [RNN for MNIST](28_RNN/RNN_MNIST.ipynb)
+
+
 ### 3.1.2 Regression
 
 **Linear Regression**
