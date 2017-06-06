@@ -144,7 +144,7 @@ Samples should be opened by ipython.
 ## 3.6 keras
 
 * [Install keras at Windows](https://github.com/ybdesire/machinelearning/blob/master/25_keras/install_at_win_conda_tf)
-
+* [Keras basic neural network](25_keras/keras_basic_nn.ipynb)
 
 ## 3.7 Incremental learning
 
