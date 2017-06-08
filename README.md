@@ -145,7 +145,9 @@ Samples should be opened by ipython.
 
 * [Install keras at Windows](https://github.com/ybdesire/machinelearning/blob/master/25_keras/install_at_win_conda_tf)
 * [Keras basic neural network](25_keras/keras_basic_nn.ipynb)
-* [Keras basic cnn for sklearn digit dataset](25_keras/keras_basic_cnn_digit_sklearn.ipynb)
+* [Keras 2D-CNN](25_keras/keras_basic_2dcnn_digit_sklearn.ipynb)
+
+
 
 ## 3.7 Incremental learning
 
