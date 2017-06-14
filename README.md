@@ -150,8 +150,11 @@ Samples should be opened by ipython.
 * [Keras 2D-CNN](25_keras/keras_basic_2dcnn_digit_sklearn.ipynb)
 
 
+## 3.7 theano
+* [Install theano at win](29_theano/install/install_theano_at_win.md)
 
-## 3.7 Incremental learning
+
+## 3.8 Incremental learning
 
 * [Incremental learning by SGDClassifier partial_fit](https://github.com/ybdesire/machinelearning/blob/master/24_incremental_learning/SGDClassifier_partial_fit.ipynb)
 
