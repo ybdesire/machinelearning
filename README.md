@@ -78,6 +78,7 @@ Samples should be opened by ipython.
 **CNN (Deep Learning)**
 * [CNN for kaggle MNIST](https://github.com/ybdesire/machinelearning/blob/master/6_NN/CNN_mnist_kaggle.ipynb)
 * [Create diffirent CNN structure](https://github.com/ybdesire/machinelearning/tree/master/11_CNN)
+* [CNN Visualization](25_keras/keras_basic_cnn_visualization.ipynb)
 
 
 **XGBoost**
