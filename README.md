@@ -137,6 +137,7 @@ Samples should be opened by ipython.
 * [MSE](https://github.com/ybdesire/machinelearning/blob/master/19_model_evaluate_selection/MSE.ipynb)
 * [Logloss](19_model_evaluate_selection/onehot_logloss.ipynb)
 * [classification report](19_model_evaluate_selection/classification_report.ipynb)
+* [feature selection by feature importance](19_model_evaluate_selection/feature_selection_by_importance.ipynb)
 
 
 ## 3.4 Model selection
