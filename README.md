@@ -44,6 +44,11 @@ My machine learning code written by Python.
 * [read csv and iterator row by row](26_pandas/read_csv.py)
 
 
+## 2.5 seaborn
+
+* [hotmap for confusion matrix](30_seaborn/confusion_matrix_heap_map.ipynb)
+
+
 # 3. ML algorithms
 
 Samples should be opened by ipython.
