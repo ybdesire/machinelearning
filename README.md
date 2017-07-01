@@ -161,6 +161,7 @@ Samples should be opened by ipython.
 * [Keras 2D-CNN](25_keras/keras_basic_2dcnn_digit_sklearn.ipynb)
 * [int to one-hot & one-hot to int](25_keras/onehot_argmax.ipynb)
 * [RNN by keras](25_keras/keras_rnn.ipynb)
+* [RESNET-50 by keras](25_keras/keras_resnet50.ipynb)
 
 
 ## 3.7 theano
