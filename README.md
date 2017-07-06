@@ -280,6 +280,7 @@ opencv 2.4.9 & windows-7
 * [preprocess for en text](https://github.com/ybdesire/machinelearning/blob/master/9_NLP/preprocess_en_text/Basic_Preprocess_En.ipynb)
 * [Bags of words feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
 * [TF, TF-IDF feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
+* [2 strings/list similarity (unequal length)](ml_related_alg/levenshtein_distance.ipynb)
 
 
 # 8. Small project/features
