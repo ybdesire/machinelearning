@@ -151,6 +151,7 @@ Samples should be opened by ipython.
 ## 3.5 Tensorflow
 
 * [Install Tensorflow at windows](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/install_tf_windows.md)
+* ["hello world" for basic calculation](23_tensorflow/tensorflow_helloworld.ipynb)
 * [softmax regression at mnist dataset](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/tf_softmax_regression_mnist.ipynb)
 * [basic CNN](23_tensorflow/tf_basic_cnn.ipynb)
 
