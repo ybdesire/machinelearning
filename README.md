@@ -156,7 +156,11 @@ Samples should be opened by ipython.
 * [basic CNN](23_tensorflow/tf_basic_cnn.ipynb)
 
 
-## 3.6 keras
+## 3.6 Tensorboard
+* []()
+
+
+## 3.7 keras
 
 * [Install keras at Windows](https://github.com/ybdesire/machinelearning/blob/master/25_keras/install_at_win_conda_tf)
 * [Keras basic neural network](25_keras/keras_basic_nn.ipynb)
@@ -167,11 +171,11 @@ Samples should be opened by ipython.
 * [RESNET-50 by keras](25_keras/keras_resnet50.ipynb)
 
 
-## 3.7 theano
+## 3.8 theano
 * [Install theano at win](29_theano/install/install_theano_at_win.md)
 
 
-## 3.8 Incremental learning
+## 3.9 Incremental learning
 
 * [Incremental learning by SGDClassifier partial_fit](https://github.com/ybdesire/machinelearning/blob/master/24_incremental_learning/SGDClassifier_partial_fit.ipynb)
 
