@@ -286,7 +286,7 @@ opencv 2.4.9 & windows-7
 * [Bags of words feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
 * [TF, TF-IDF feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
 * [2 strings/list similarity (unequal length)](ml_related_alg/levenshtein_distance.ipynb)
-
+* [correlation analysis](ml_related_alg/correlation_analysis.ipynb)
 
 # 8. Small project/features
 
