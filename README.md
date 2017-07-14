@@ -277,6 +277,7 @@ opencv 2.4.9 & windows-7
 
 ## 7.2 word2vec
 * [word2vec basic](https://github.com/ybdesire/machinelearning/blob/master/9_NLP/2_word2vec/word2vec_intro.ipynb)
+* [gensim word2vec basic](9_NLP/2_word2vec/gensim_basic.ipynb)
 
 
 ## 7.3 Others
