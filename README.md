@@ -277,6 +277,7 @@ opencv 2.4.9 & windows-7
 
 ## 7.2 word2vec
 * [word2vec basic](https://github.com/ybdesire/machinelearning/blob/master/9_NLP/2_word2vec/word2vec_intro.ipynb)
+* [gensim word2vec basic](9_NLP/2_word2vec/gensim_basic.ipynb)
 
 
 ## 7.3 Others
@@ -286,6 +287,8 @@ opencv 2.4.9 & windows-7
 * [Bags of words feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
 * [TF, TF-IDF feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
 * [2 strings/list similarity (unequal length)](ml_related_alg/levenshtein_distance.ipynb)
+* [correlation analysis](ml_related_alg/correlation_analysis.ipynb)
+* [association analysis](ml_related_alg/association_analysis/association_analysis.ipynb)
 
 
 # 8. Small project/features
