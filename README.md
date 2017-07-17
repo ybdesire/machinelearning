@@ -31,6 +31,8 @@ My machine learning code written by Python.
 * [draw bar with x](https://github.com/ybdesire/machinelearning/blob/master/3_matplotlib/bar.ipynb)
 * [draw image without axes](3_matplotlib/plot_image_without_axes.ipynb)
 * [figure resize](3_matplotlib/figure_resize.ipynb)
+* [plot 2 lines at one fiture](3_matplotlib/plot_2_lines_at_one_figure.ipynb)
+
 
 
 ## 2.3 scipy
