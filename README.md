@@ -33,7 +33,7 @@ My machine learning code written by Python.
 * [figure resize](3_matplotlib/figure_resize.ipynb)
 * [plot 2 lines at one fiture](3_matplotlib/plot_2_lines_at_one_figure.ipynb)
 * [plot point and line at one fiture](3_matplotlib/plot_line_and_point_at_one_figure.ipynb)
-
+* [3D plot with pca](3_matplotlib/3d_plot_with_pca.ipynb)
 
 
 ## 2.3 scipy
