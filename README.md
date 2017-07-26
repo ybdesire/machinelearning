@@ -160,7 +160,7 @@ Samples should be opened by ipython.
 
 
 ## 3.6 Tensorboard
-* []()
+* [Tensorboard with keras](31_tensorboard/tensorboard_keras_basic.ipynb)
 
 
 ## 3.7 keras
