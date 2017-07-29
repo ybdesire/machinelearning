@@ -162,7 +162,7 @@ Samples should be opened by ipython.
 ## 3.6 Tensorboard
 * [Tensorboard with keras](31_tensorboard/tensorboard_keras_basic.ipynb)
 * [Tensorboard with keras CNN](31_tensorboard/tensorboard_keras_cnn.ipynb)
-
+* [EMBEDDING: mnist data](31_tensorboard/embedding_mnist)
 
 
 
