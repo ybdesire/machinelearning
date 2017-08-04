@@ -295,13 +295,17 @@ opencv 2.4.9 & windows-7
 * [preprocess for en text](https://github.com/ybdesire/machinelearning/blob/master/9_NLP/preprocess_en_text/Basic_Preprocess_En.ipynb)
 * [Bags of words feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
 * [TF, TF-IDF feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
-* [2 strings/list similarity (unequal length)](ml_related_alg/levenshtein_distance.ipynb)
+
+
+# 8. other machine learning related algorithm
 * [correlation analysis](ml_related_alg/correlation_analysis.ipynb)
 * [association analysis](ml_related_alg/association_analysis/association_analysis.ipynb)
 * [jaccard similarity](19_model_evaluate_selection/jaccard_similarity.ipynb)
+* [2 strings/list similarity (unequal length)](ml_related_alg/levenshtein_distance.ipynb)
+* [peak detect]( ml_related_alg/peak_detect.ipynb)
 
 
-# 8. Small project/features
+# 9. Small project/features
 
 * [Human face image completion](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_completion_face.ipynb)
 * [Human detection by opencv hug & svm](8_image_process/opencv/image_human_detection/human_detection.ipynb)
