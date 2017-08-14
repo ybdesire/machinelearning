@@ -35,6 +35,7 @@ My machine learning code written by Python.
 * [plot point and line at one fiture](3_matplotlib/plot_line_and_point_at_one_figure.ipynb)
 * [3D plot with pca](3_matplotlib/3d_plot_with_pca.ipynb)
 * [plot 2 lines with different line width](3_matplotlib/linewidth.ipynb)
+* [save to png image](3_matplotlib/save_image_by_matplotlib.ipynb)
 
 
 ## 2.3 scipy
