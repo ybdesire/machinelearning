@@ -221,6 +221,9 @@ Samples should be opened by ipython.
 
 * [Image smooth by blurring, Gaussian, median and bilateral filtering](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/opencv/pre_process/smooth.ipynb)
 
+**Projects**
+* [defect detection](8_image_process/opencv/defect_detection/defect_detection.ipynb)
+
 
 ### 5.1.1 OpenCV CPP
 
