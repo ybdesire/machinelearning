@@ -238,6 +238,10 @@ opencv 2.4.9 & windows-7
 * Keep gray image pixel value range [0,255] when room/shift/rotate by setting order=1.   commit-220ac520a0d008e74165fe3aace42b93844aedde
 
 
+## 5.3 OCR
+* [tesseract basic feature](32_OCR/tesseract/basic_usage)
+
+
 # 6. Distributed ML
 
 ## 6.1 Spark
