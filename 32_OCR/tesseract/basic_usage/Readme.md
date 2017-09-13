@@ -13,7 +13,7 @@ OCR Engine modes:
 * unzip to dir `tesseract-4.0.0-alpha`
 * Download language data from [here](https://github.com/tesseract-ocr/tesseract/wiki/Data-Files#updated-data-files-for-version-400). (`chi_sim.traineddata` for Simplified Chinese , `eng.traineddata` for English).
 * osd.traineddata is necessity
-* Mkdir  `tesseract-4.0.0-alpha/tessdata`
+* mkdir  `tesseract-4.0.0-alpha/tessdata`
 * set TESSDATA_PREFIX environment variable to the parent directory of your "tessdata" directory
 * Copy `*.traineddata` to `tesseract-4.0.0-alpha/tessdata`
 
@@ -47,6 +47,8 @@ Then we get the recoginized Chinese test at 1.txt
 
 
 ### Get character location
+
+* copy `configs/hocr` to `tesseract-4.0.0-alpha/tessdata/configs/hocr`
 
 * run cmd below to get the hocr file
 
