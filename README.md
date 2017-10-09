@@ -21,6 +21,7 @@ My machine learning code written by Python.
 ## 2.1 numpy
 
 * [Matrix operations: add, subtraction, inverse](https://github.com/ybdesire/machinelearning/blob/master/1_numpy/matrix_calc.py)
+* [linspace](1_numpy/linspace.py)
 
 
 ## 2.2 matplotlib
