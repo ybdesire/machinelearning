@@ -23,6 +23,7 @@ My machine learning code written by Python.
 * [Matrix operations: add, subtraction, inverse](https://github.com/ybdesire/machinelearning/blob/master/1_numpy/matrix_calc.py)
 * [linspace](1_numpy/linspace.py)
 * [zeros](1_numpy/zeros.py)
+* [meshgrid](1_numpy/meshgrid.py)
 
 
 ## 2.2 matplotlib
