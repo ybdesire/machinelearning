@@ -24,7 +24,7 @@ My machine learning code written by Python.
 * [linspace](1_numpy/linspace.py)
 * [zeros](1_numpy/zeros.py)
 * [meshgrid](1_numpy/meshgrid.py)
-
+* [sin/cos/pi](1_numpy/sin_cos_pi.py)
 
 ## 2.2 matplotlib
 
