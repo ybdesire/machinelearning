@@ -195,6 +195,11 @@ Samples should be opened by ipython.
 * [Incremental learning by SGDClassifier partial_fit](https://github.com/ybdesire/machinelearning/blob/master/24_incremental_learning/SGDClassifier_partial_fit.ipynb)
 
 
+## 3.10 outlier detection
+
+* [IsolationForest](33_outlier_detection/outlier_detection_IsolationForest.ipynb)
+
+
 # 4. Feature Engineering
 
 ## 4.1 Working With Text Data
