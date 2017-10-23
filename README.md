@@ -252,6 +252,10 @@ opencv 2.4.9 & windows-7
 * [tesseract basic feature](32_OCR/tesseract/basic_usage)
 
 
+## 5.4 3D graph process
+* [stl file parse](34_stl_file_3d/parse_stl_file.ipynb)
+
+
 # 6. Distributed ML
 
 ## 6.1 Spark
