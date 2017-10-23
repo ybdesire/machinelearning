@@ -210,7 +210,7 @@ Samples should be opened by ipython.
 ## 4.2 String Hash
 
 * [Extract string hash value by FeatureHasher](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/FeatureHasher.ipynb)
-
+* [HashingVectorizer](18_text_feature/HashingVectorizer.ipynb)
 
 
 # 5. Image process
