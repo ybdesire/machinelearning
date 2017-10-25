@@ -48,6 +48,7 @@ My machine learning code written by Python.
 * [load matlab mat file](https://github.com/ybdesire/machinelearning/blob/master/20_scipy/load_matlab_mat_file.ipynb)
 * [sparse matrix basic](20_scipy/sparse_matrix.ipynb)
 * [gaussian filter](20_scipy/gaussian_filter.ipynb)
+* [get data distribution probability](20_scipy/get_list_norm_distribution_probability.ipynb)
 
 
 ## 2.4 pandas
