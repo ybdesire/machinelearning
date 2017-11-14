@@ -236,11 +236,15 @@ Samples should be opened by ipython.
 * [defect detection](8_image_process/opencv/defect_detection/defect_detection.ipynb)
 
 
-### 5.1.1 OpenCV CPP
+### 5.1.2 OpenCV CPP
 
 opencv 2.4.9 & windows-7
 
 * [Init opencv cpp project](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/CppProject/image_pre_process)
+
+
+### 5.1.3 Features
+* [SIFT](8_image_process/opencv/SIFT/get_sift_feature.ipynb)
 
 
 ## 5.2 Useful features
