@@ -243,8 +243,11 @@ opencv 2.4.9 & windows-7
 * [Init opencv cpp project](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/CppProject/image_pre_process)
 
 
-### 5.1.3 Features
+### 5.1.3 Features & Matcher
 * [SIFT](8_image_process/opencv/SIFT/get_sift_feature.ipynb)
+* [Images matching with average distance output](8_image_process/opencv/SIFT/match_by_2_images_navie_ave.ipynb)
+* 
+
 
 
 ## 5.2 Useful features
