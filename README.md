@@ -248,6 +248,7 @@ opencv 2.4.9 & windows-7
 * [Images matching with average distance output](8_image_process/opencv/SIFT/match_by_2_images_navie_ave.ipynb)
 * [Images matching with most-similar-average distance output](8_image_process/opencv/SIFT/match_by_2_images_sort_ave.ipynb)
 * [Different size images match by ORB feature and BFMatcher](8_image_process/opencv/SIFT/match_diff_size.ipynb)
+* [Different direction images match by ORB feature and BFMatcher](8_image_process/opencv/SIFT/match_rotate.ipynb)
 
 
 
