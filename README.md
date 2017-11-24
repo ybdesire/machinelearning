@@ -165,6 +165,7 @@ Samples should be opened by ipython.
 * [Install Tensorflow at windows](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/install_tf_windows.md)
 * ["hello world" for basic calculation](23_tensorflow/tensorflow_helloworld.ipynb)
 * [basic linear model by tf-core low level api](23_tensorflow/tf_basic_basic_linear_model.ipynb)
+* [basic linear model training by tf-core low level api](23_tensorflow/tf_basic_train.ipynb)
 * [softmax regression at mnist dataset](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/tf_softmax_regression_mnist.ipynb)
 * [basic CNN](23_tensorflow/tf_basic_cnn.ipynb)
 
