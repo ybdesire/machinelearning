@@ -167,7 +167,7 @@ Samples should be opened by ipython.
 * [basic linear model by tf-core low level api](23_tensorflow/tf_basic_basic_linear_model.ipynb)
 * [basic linear model training by tf-core low level api](23_tensorflow/tf_basic_train.ipynb)
 * [basic linear model by tf.estimator high level api](23_tensorflow/tf_basic_estimator.ipynb)
-* [softmax regression at mnist dataset](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/tf_softmax_regression_mnist.ipynb)
+* [basic softmax regression at mnist dataset](23_tensorflow/tf_basic_mnist_softmax.ipynb)
 * [basic CNN](23_tensorflow/tf_basic_cnn.ipynb)
 
 
