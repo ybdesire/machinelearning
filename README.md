@@ -338,6 +338,8 @@ opencv 2.4.9 & windows-7
 * [jaccard similarity](19_model_evaluate_selection/jaccard_similarity.ipynb)
 * [2 strings/list similarity (unequal length)](ml_related_alg/levenshtein_distance.ipynb)
 * [peak detect]( ml_related_alg/peak_detect.ipynb)
+* [panel data analysis: fixed/random effects model by linearmodels](ml_related_alg/panel_data_analysis/panel_data_fixed_random_model_by_linearmodels.ipynb)
+
 
 
 # 9. Small project/features
