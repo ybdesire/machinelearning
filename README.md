@@ -339,6 +339,7 @@ opencv 2.4.9 & windows-7
 * [2 strings/list similarity (unequal length)](ml_related_alg/levenshtein_distance.ipynb)
 * [peak detect]( ml_related_alg/peak_detect.ipynb)
 * [panel data analysis: fixed/random effects model by linearmodels](ml_related_alg/panel_data_analysis/panel_data_fixed_random_model_by_linearmodels.ipynb)
+* [panel data analysis: mixed effects model by statsmodels](ml_related_alg/panel_data_analysis/panel_data_mixed_effects_model_by_statsmodels.ipynb)
 
 
 
