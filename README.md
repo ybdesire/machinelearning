@@ -268,6 +268,11 @@ opencv 2.4.9 & windows-7
 * [stl file parse](34_stl_file_3d/parse_stl_file.ipynb)
 
 
+## 5.5 face_recognition
+* [install face_recognition at ubuntu](35_face_recognition/install_at_ubuntu.md)
+
+
+
 # 6. Distributed ML
 
 ## 6.1 Spark
