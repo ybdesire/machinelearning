@@ -270,7 +270,7 @@ opencv 2.4.9 & windows-7
 
 ## 5.5 face_recognition
 * [install face_recognition at ubuntu](35_face_recognition/install_at_ubuntu.md)
-
+* [face location](35_face_recognition/face_location/face_location.ipynb)
 
 
 # 6. Distributed ML
