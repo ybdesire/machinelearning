@@ -215,6 +215,10 @@ Samples should be opened by ipython.
 * [Extract string hash value by FeatureHasher](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/FeatureHasher.ipynb)
 * [HashingVectorizer](18_text_feature/HashingVectorizer.ipynb)
 
+## 4.3 Normalization
+
+* [MinMaxScaler](36_fea_eng/normalization/MinMaxScaler.ipynb)
+
 
 # 5. Image process
 
