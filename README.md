@@ -218,6 +218,7 @@ Samples should be opened by ipython.
 ## 4.3 Normalization
 
 * [MinMaxScaler](36_fea_eng/normalization/MinMaxScaler.ipynb)
+* [StandardScaler](36_fea_eng/normalization/StandardScaler.ipynb)
 
 
 # 5. Image process
