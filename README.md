@@ -181,11 +181,18 @@ Samples should be opened by ipython.
 
 ## 3.7 keras
 
+### 3.7.1 basic
+
 * [Install keras at Windows](https://github.com/ybdesire/machinelearning/blob/master/25_keras/install_at_win_conda_tf)
 * [Keras basic neural network](25_keras/keras_basic_nn.ipynb)
+* [int to one-hot & one-hot to int](25_keras/onehot_argmax.ipynb)
+* [get log loss each epoch](25_keras/keras_log_loss_each_epoch.ipynb)
+
+
+### 3.7.2 models
+
 * [Keras 1D-CNN](25_keras/keras_basic_1dcnn_digit_sklearn.ipynb)
 * [Keras 2D-CNN](25_keras/keras_basic_2dcnn_digit_sklearn.ipynb)
-* [int to one-hot & one-hot to int](25_keras/onehot_argmax.ipynb)
 * [RNN by keras](25_keras/keras_rnn.ipynb)
 * [RESNET-50 by keras](25_keras/keras_resnet50.ipynb)
 
