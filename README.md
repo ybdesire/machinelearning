@@ -187,7 +187,7 @@ Samples should be opened by ipython.
 * [Keras basic neural network](25_keras/keras_basic_nn.ipynb)
 * [int to one-hot & one-hot to int](25_keras/onehot_argmax.ipynb)
 * [get log loss each epoch](25_keras/keras_log_loss_each_epoch.ipynb)
-
+* [model dump, load](25_keras/keras_model_save_load.ipynb)
 
 ### 3.7.2 models
 
