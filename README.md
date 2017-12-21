@@ -188,6 +188,8 @@ Samples should be opened by ipython.
 * [int to one-hot & one-hot to int](25_keras/onehot_argmax.ipynb)
 * [get log loss each epoch](25_keras/keras_log_loss_each_epoch.ipynb)
 * [model dump, load](25_keras/keras_model_save_load.ipynb)
+* [plot loss,acc history](25_keras/keras_plot_loss_acc_history.ipynb)
+
 
 ### 3.7.2 models
 
