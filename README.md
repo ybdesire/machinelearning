@@ -189,6 +189,7 @@ Samples should be opened by ipython.
 * [get log loss each epoch](25_keras/keras_log_loss_each_epoch.ipynb)
 * [model dump, load](25_keras/keras_model_save_load.ipynb)
 * [plot loss,acc history](25_keras/keras_plot_loss_acc_history.ipynb)
+* [early stop](25_keras/keras_early_stop.ipynb)
 
 
 ### 3.7.2 models
