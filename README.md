@@ -191,6 +191,8 @@ Samples should be opened by ipython.
 * [plot loss,acc history](25_keras/keras_plot_loss_acc_history.ipynb)
 * [early stop](25_keras/keras_early_stop.ipynb)
 * [adam optimization](25_keras/keras_adam_optimization.ipynb)
+* [validation](25_keras/keras_validation_split.ipynb)
+
 
 
 ### 3.7.2 models
