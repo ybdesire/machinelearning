@@ -201,6 +201,7 @@ Samples should be opened by ipython.
 * [Keras 2D-CNN](25_keras/keras_basic_2dcnn_digit_sklearn.ipynb)
 * [RNN by keras](25_keras/keras_rnn.ipynb)
 * [RESNET-50 by keras](25_keras/keras_resnet50.ipynb)
+* [LSTM](25_keras/keras_lstm.ipynb)
 
 
 ## 3.8 theano
