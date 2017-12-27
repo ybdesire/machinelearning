@@ -273,6 +273,9 @@ opencv 2.4.9 & windows-7
 * [Different direction images match by ORB feature and BFMatcher](8_image_process/opencv/SIFT/match_rotate.ipynb)
 
 
+### 5.1.4 Geometric Transformations
+* [resize](8_image_process/opencv/image_transformation/resize.ipynb)
+
 
 ## 5.2 Useful features
 * [Image smooth, shift, rotate, zoom by scipy.ndimage](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_process_scikit-image.ipynb)
