@@ -275,6 +275,8 @@ opencv 2.4.9 & windows-7
 
 ### 5.1.4 Geometric Transformations
 * [resize](8_image_process/opencv/image_transformation/resize.ipynb)
+* [Perspective Transformation](8_image_process/opencv/image_transformation/perspective_transformation.ipynb)
+* [Affine Transformation](8_image_process/opencv/image_transformation/affine_transformation.ipynb)
 
 
 ## 5.2 Useful features
