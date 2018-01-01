@@ -40,7 +40,7 @@ My machine learning code written by Python.
 * [plot 2 lines with different line width](3_matplotlib/linewidth.ipynb)
 * [save to png image](3_matplotlib/save_image_by_matplotlib.ipynb)
 * [plot x/y/title label with font_size](3_matplotlib/plot_label_with_size.ipynb)
-
+* [sub-plot](3_matplotlib/sub_plot.ipynb)
 
 ## 2.3 scipy
 
