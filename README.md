@@ -25,6 +25,8 @@ My machine learning code written by Python.
 * [zeros](1_numpy/zeros.py)
 * [meshgrid](1_numpy/meshgrid.py)
 * [sin/cos/pi](1_numpy/sin_cos_pi.py)
+* [random](1_numpy/np.random.ipynb)
+
 
 ## 2.2 matplotlib
 
