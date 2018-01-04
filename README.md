@@ -164,12 +164,16 @@ Samples should be opened by ipython.
 
 ## 3.5 Tensorflow
 
+### 3.5.1 TF Basic
 * [Install Tensorflow at windows](https://github.com/ybdesire/machinelearning/blob/master/23_tensorflow/install_tf_windows.md)
 * ["hello world" for basic calculation](23_tensorflow/tensorflow_helloworld.ipynb)
 * [basic linear model by tf-core low level api](23_tensorflow/tf_basic_basic_linear_model.ipynb)
 * [basic linear model training by tf-core low level api](23_tensorflow/tf_basic_train.ipynb)
 * [basic linear model by tf.estimator high level api](23_tensorflow/tf_basic_estimator.ipynb)
 * [basic softmax regression at mnist dataset](23_tensorflow/tf_basic_mnist_softmax.ipynb)
+
+
+### 3.5.2 TF models
 * [basic CNN](23_tensorflow/tf_basic_cnn.ipynb)
 
 
