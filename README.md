@@ -174,6 +174,7 @@ Samples should be opened by ipython.
 
 
 ### 3.5.2 TF models
+* [DNN-200N-100N-50N-10N](23_tensorflow/models/tf_dnn_200N-100N-50N-10N.ipynb)
 * [basic CNN](23_tensorflow/tf_basic_cnn.ipynb)
 
 
