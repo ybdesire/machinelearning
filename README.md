@@ -184,7 +184,7 @@ Samples should be opened by ipython.
 
 ### 3.6.1 Tensorboard by Tensorflow
 
-
+* [TF linearmodel Tensorboard]( 31_tensorboard/tensorboard_tf_basic_linearmodel.ipynb)
 
 ### 3.6.2 Tensorboard by Keras
 * [Tensorboard with keras](31_tensorboard/tensorboard_keras_basic.ipynb)
