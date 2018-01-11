@@ -183,8 +183,9 @@ Samples should be opened by ipython.
 ## 3.6 Tensorboard
 
 ### 3.6.1 Tensorboard by Tensorflow
+* [TF linearmodel Tensorboard](31_tensorboard/tensorboard_tf_basic_linearmodel.ipynb)
+* [TF DNN Tensorboard](31_tensorboard/tensorboard_tf_dnn_200N-100N-50N-10N.ipynb)
 
-* [TF linearmodel Tensorboard]( 31_tensorboard/tensorboard_tf_basic_linearmodel.ipynb)
 
 ### 3.6.2 Tensorboard by Keras
 * [Tensorboard with keras](31_tensorboard/tensorboard_keras_basic.ipynb)
