@@ -173,7 +173,11 @@ Samples should be opened by ipython.
 * [basic softmax regression at mnist dataset](23_tensorflow/tf_basic_mnist_softmax.ipynb)
 
 
-### 3.5.2 TF models
+## 3.5.2 tf.estimator
+[DNNClassifier](23_tensorflow/tf_estimator_DNNClassifier/tf.estimator.DNNClassifier.ipynb)
+
+
+### 3.5.3 TF models
 * [DNN-200N-100N-50N-10N](23_tensorflow/models/tf_dnn_200N-100N-50N-10N.ipynb)
 * [basic CNN](23_tensorflow/tf_basic_cnn.ipynb)
 * [CNN-120C5-MP2-200C3-MP2-100N-10N](23_tensorflow/models/tf_cnn_120C5-MP2-200C3-MP2-100N-10N.ipynb)
