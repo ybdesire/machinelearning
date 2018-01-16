@@ -175,6 +175,7 @@ Samples should be opened by ipython.
 
 ## 3.5.2 tf.estimator
 [DNNClassifier](23_tensorflow/tf_estimator_DNNClassifier/tf.estimator.DNNClassifier.ipynb)
+[set batchsize and epoch](23_tensorflow/tf_estimator_DNNClassifier_batchsize_epoch/tf.estimator.DNNClassifier_epoch_batchsize.ipynb)
 
 
 ### 3.5.3 TF models
