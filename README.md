@@ -43,6 +43,9 @@ My machine learning code written by Python.
 * [save to png image](3_matplotlib/save_image_by_matplotlib.ipynb)
 * [plot x/y/title label with font_size](3_matplotlib/plot_label_with_size.ipynb)
 * [sub-plot](3_matplotlib/sub_plot.ipynb)
+* [set x/y axes limits](3_matplotlib/matplotlib_set_xy_axes_limits.ipynb)
+
+
 
 ## 2.3 scipy
 
