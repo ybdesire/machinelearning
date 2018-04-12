@@ -386,6 +386,10 @@ opencv 2.4.9 & windows-7
 * [Bags of words feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
 * [TF, TF-IDF feature](https://github.com/ybdesire/machinelearning/blob/master/18_text_feature/extract_mine_strings_feature.ipynb)
 
+## 7.4 keyword & abstract extraction
+
+* [from Chinese text](9_NLP/keyword_abstract_extraction_zh/)
+
 
 # 8. other machine learning related algorithm
 * [correlation analysis](ml_related_alg/correlation_analysis.ipynb)
