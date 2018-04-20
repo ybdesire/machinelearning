@@ -241,6 +241,11 @@ Samples should be opened by ipython.
 
 * [IsolationForest](33_outlier_detection/outlier_detection_IsolationForest.ipynb)
 
+## 3.11 sklearn
+
+* [model ]()
+
+
 
 # 4. Feature Engineering
 
