@@ -243,7 +243,7 @@ Samples should be opened by ipython.
 
 ## 3.11 sklearn
 
-* [model ]()
+* [model persistence(dump & load)](37_sklearn/sklearn_model_persistence.ipynb)
 
 
 
