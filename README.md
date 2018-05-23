@@ -396,7 +396,12 @@ opencv 2.4.9 & windows-7
 * [from Chinese text](9_NLP/keyword_abstract_extraction_zh/)
 
 
-# 8. other machine learning related algorithm
+# 8. GPU
+
+* [GPU environment setup](38_gpu_related/env_driver_cuda_tf_installation.md)
+
+
+# 9. other machine learning related algorithm
 * [correlation analysis](ml_related_alg/correlation_analysis.ipynb)
 * [association analysis](ml_related_alg/association_analysis/association_analysis.ipynb)
 * [jaccard similarity](19_model_evaluate_selection/jaccard_similarity.ipynb)
@@ -407,7 +412,7 @@ opencv 2.4.9 & windows-7
 
 
 
-# 9. Small project/features
+# 10. Small project/features
 
 * [Human face image completion](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_completion_face.ipynb)
 * [Human detection by opencv hug & svm](8_image_process/opencv/image_human_detection/human_detection.ipynb)
