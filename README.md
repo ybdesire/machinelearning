@@ -400,6 +400,9 @@ opencv 2.4.9 & windows-7
 
 * [GPU environment setup](38_gpu_related/env_driver_cuda_tf_installation.md)
 * [GPU vs CPU basic](38_gpu_related/gpu_vs_cpu_basic.ipynb)
+* [check GPU hardware status](38_gpu_related/check_gpu_status.md)
+
+ 
 
 
 # 9. other machine learning related algorithm
