@@ -120,6 +120,11 @@ Samples should be opened by ipython.
 * [RNN for MNIST](28_RNN/RNN_MNIST.ipynb)
 
 
+**DCNN**
+* [Deconvolution network](39_deconvolution_network/dcnn_model.ipynb)
+
+
+
 ### 3.1.2 Regression
 
 **Linear Regression**
