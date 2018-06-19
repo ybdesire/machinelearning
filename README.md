@@ -426,7 +426,7 @@ opencv 2.4.9 & windows-7
 * [Human face image completion](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_completion_face.ipynb)
 * [Human detection by opencv hug & svm](8_image_process/opencv/image_human_detection/human_detection.ipynb)
 * [gibberish text detection](9_NLP/gibberish_detection/gibberish_sentence_detection.ipynb)
-
+* [poker game AI](40_poker_ai/Readme.md)
 
 
 
