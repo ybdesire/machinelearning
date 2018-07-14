@@ -429,6 +429,7 @@ opencv 2.4.9 & windows-7
 * [Human detection by opencv hug & svm](8_image_process/opencv/image_human_detection/human_detection.ipynb)
 * [gibberish text detection](9_NLP/gibberish_detection/gibberish_sentence_detection.ipynb)
 * [poker game AI](40_poker_ai/Readme.md)
+* [learn deeper for pklearn](40_poker_ai/learn_pklearn_deeper.ipynb)
 
 
 

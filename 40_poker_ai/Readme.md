@@ -67,3 +67,10 @@ Complete.
 Players are training...
 Complete.
 ```
+
+# how to run `learn_pklearn_deeper.ipynb`
+
+* git clone https://github.com/chasembowers/poker-learn.git
+* change directory to `poker-learn`
+* move `learn_pklearn_deeper.ipynb` to `poker-learn`
+* run by jupyter
