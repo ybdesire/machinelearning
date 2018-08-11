@@ -58,7 +58,7 @@ My machine learning code written by Python.
 
 ## 2.4 pandas
 
-* [read csv and iterator row by row](26_pandas/read_csv.py)
+* [read csv and iterator row by row](26_pandas/read_csv/read_csv.py)
 
 
 ## 2.5 seaborn
