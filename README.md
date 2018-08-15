@@ -214,6 +214,7 @@ Samples should be opened by ipython.
 ### 3.7.1 basic
 
 * [Install keras at Windows](https://github.com/ybdesire/machinelearning/blob/master/25_keras/install_at_win_conda_tf)
+* [Modify keras backend between theano and tf](25_keras//modify_keras_backend.ipynb)
 * [Keras basic neural network](25_keras/keras_basic_nn.ipynb)
 * [int to one-hot & one-hot to int](25_keras/onehot_argmax.ipynb)
 * [get log loss each epoch](25_keras/keras_log_loss_each_epoch.ipynb)
