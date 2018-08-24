@@ -11,4 +11,4 @@
 
 (3) conda install scikit-learn
 
-(4) pip install keras
+(4) conda install keras
