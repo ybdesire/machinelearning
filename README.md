@@ -223,7 +223,7 @@ Samples should be opened by ipython.
 * [early stop](25_keras/keras_early_stop.ipynb)
 * [adam optimization](25_keras/keras_adam_optimization.ipynb)
 * [validation](25_keras/keras_validation_split.ipynb)
-
+* [param of model.summary](25_keras/how_to_understand_params.ipynb)
 
 
 ### 3.7.2 models
