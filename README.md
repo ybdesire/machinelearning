@@ -285,6 +285,9 @@ Samples should be opened by ipython.
 **Basic**
 * [Image Read/Cut/Display](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/opencv/img_read_display/1_img_read.py)
 * [Image Read/Cut/Display by Jupyter](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/opencv/img_read_display/2_img_basic.ipynb)
+* [rgb to hsv](8_image_process/opencv/opencv_hsv/rgb_to_hsv_with_diff.py)
+* [hsv image](8_image_process/opencv/opencv_hsv/hsv_each_channel.png)
+
 
 **Preprocess**
 
