@@ -292,6 +292,8 @@ Samples should be opened by ipython.
 **Preprocess**
 
 * [Image smooth by blurring, Gaussian, median and bilateral filtering](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/opencv/pre_process/smooth.ipynb)
+* [modify pixel color](8_image_process/opencv/pre_process/modify_color_pixel/opencv_modify_color.py)
+
 
 **Projects**
 * [defect detection](8_image_process/opencv/defect_detection/defect_detection.ipynb)
