@@ -20,3 +20,6 @@ A Python library for audio feature extraction, classification, segmentation and 
 * python3.5
 
 
+# 4. Audio dataset
+
+* casia汉语情感语料库
