@@ -417,7 +417,7 @@ opencv 2.4.9 & windows-7
 ## 8.1 pyAudioAnalysis
 * [basic intro](41_pyaudioanalysis/readme.md)
 * [frequency and data extraction from wav file](41_pyaudioanalysis/basic_usage.py)
-
+* [audio feature extraction](41_pyaudioanalysis/fea_extraction.py)
 
 
 # 9. GPU
