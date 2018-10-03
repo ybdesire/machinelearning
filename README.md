@@ -26,6 +26,7 @@ My machine learning code written by Python.
 * [meshgrid](1_numpy/meshgrid.py)
 * [sin/cos/pi](1_numpy/sin_cos_pi.py)
 * [random](1_numpy/np.random.ipynb)
+* [np.where to find index](1_numpy/npwhere.py)
 
 
 ## 2.2 matplotlib
