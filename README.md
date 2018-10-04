@@ -27,6 +27,7 @@ My machine learning code written by Python.
 * [sin/cos/pi](1_numpy/sin_cos_pi.py)
 * [random](1_numpy/np.random.ipynb)
 * [np.where to find index](1_numpy/npwhere.py)
+* [batch replace array values](1_numpy/np_batch_replace.py)
 
 
 ## 2.2 matplotlib
