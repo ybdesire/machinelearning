@@ -300,6 +300,7 @@ Samples should be opened by ipython.
 * [modify pixel color](8_image_process/opencv/pre_process/modify_color_pixel/opencv_modify_color.py)
 * [modify pixel color fast](8_image_process/opencv/pre_process/modify_color_pixel/opencv_modify_color_fast.py)
 * [flattern rgb](8_image_process/opencv/flattern_rgb/flattern_rgb.py)
+* [split rgb](8_image_process/opencv/flattern_rgb/split_rgb.py)
 
 
 **Projects**
