@@ -253,7 +253,7 @@ Samples should be opened by ipython.
 ## 3.11 sklearn
 
 * [model persistence(dump & load)](37_sklearn/sklearn_model_persistence.ipynb)
-
+* [euclidean distance](37_sklearn/sklearn_distance.py)
 
 
 # 4. Feature Engineering
