@@ -431,6 +431,10 @@ opencv 2.4.9 & windows-7
 * [from Chinese text](9_NLP/keyword_abstract_extraction_zh/)
 
 
+## 7.5 gensim
+* [get dict for text](9_NLP/4_gensim/get_dict_for_text.py)
+
+
 # 8. Audio
 
 ## 8.1 pyAudioAnalysis
