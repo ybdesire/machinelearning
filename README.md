@@ -429,8 +429,12 @@ opencv 2.4.9 & windows-7
 * [check if keras/tensorflow run on GPU](38_gpu_related/check_if_keras_tensorflow_run_on_gpu/Readme.md)
  
 
+# 10. Video
+* [read mp4 by opencv py3]( 42_video/opencv/read_video_py3.py)
 
-# 10. other machine learning related algorithm
+
+
+# 11. other machine learning related algorithm
 * [correlation analysis](ml_related_alg/correlation_analysis.ipynb)
 * [association analysis](ml_related_alg/association_analysis/association_analysis.ipynb)
 * [jaccard similarity](19_model_evaluate_selection/jaccard_similarity.ipynb)
@@ -441,7 +445,7 @@ opencv 2.4.9 & windows-7
 
 
 
-# 11. Small project/features
+# 12. Small project/features
 
 * [Human face image completion](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_completion_face.ipynb)
 * [Human detection by opencv hug & svm](8_image_process/opencv/image_human_detection/human_detection.ipynb)
