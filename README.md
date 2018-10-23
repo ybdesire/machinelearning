@@ -433,6 +433,7 @@ opencv 2.4.9 & windows-7
 
 ## 7.5 gensim
 * [get dict for text](9_NLP/4_gensim/get_dict_for_text.py)
+* [dict filter](9_NLP/4_gensim/dict_filter.py)
 
 
 # 8. Audio
