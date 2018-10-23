@@ -430,7 +430,8 @@ opencv 2.4.9 & windows-7
  
 
 # 10. Video
-* [read mp4 by opencv py3]( 42_video/opencv/read_video_py3.py)
+* [read mp4 by opencv py3]( 42_video/opencv/read_video_py3.py )
+* [get video fps by opencv py3]( 42_video/opencv/get_mp4_fps.py )
 
 
 
