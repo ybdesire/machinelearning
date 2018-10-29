@@ -435,6 +435,8 @@ opencv 2.4.9 & windows-7
 * [get dict for text](9_NLP/4_gensim/get_dict_for_text.py)
 * [dict filter](9_NLP/4_gensim/dict_filter.py)
 * [doc2bow](9_NLP/4_gensim/doc2bow.py)
+* [tfidf/tf-idf](9_NLP/4_gensim/tfidf.py)
+
 
 # 8. Audio
 
