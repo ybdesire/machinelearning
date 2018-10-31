@@ -281,6 +281,11 @@ Samples should be opened by ipython.
 * [MinMaxScaler](36_fea_eng/normalization/MinMaxScaler.ipynb)
 * [StandardScaler](36_fea_eng/normalization/StandardScaler.ipynb)
 
+## 4.4 Feature selection
+
+* [feature selection by chi-square/chi2](43_feature_selection/fea_select_by_chi_squared.py)
+
+
 
 # 5. Image process
 
