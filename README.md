@@ -284,7 +284,7 @@ Samples should be opened by ipython.
 ## 4.4 Feature selection
 
 * [feature selection by chi-square/chi2](43_feature_selection/fea_select_by_chi_squared.py)
-
+* [feature selection by recursive feature elimination/rfe](43_feature_selection/fea_select_by_rfe.py)
 
 
 # 5. Image process
