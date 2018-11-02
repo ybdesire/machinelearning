@@ -263,6 +263,7 @@ Samples should be opened by ipython.
 * [euclidean distance](37_sklearn/sklearn_distance.py)
 * [boston house-prices dataset for regression](37_sklearn/boston_dataset.ipynb)
 * [decision tree ensembel with adaboost](37_sklearn/decision_tree_ensembel_with_adaboost.ipynb)
+* [kmeans cluster](37_sklearn/kmeans_sklearn.py)
 
 
 ## 3.12 jupyter
