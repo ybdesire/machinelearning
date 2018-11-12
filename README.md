@@ -254,6 +254,7 @@ Samples should be opened by ipython.
 
 * [model persistence(dump & load)](37_sklearn/sklearn_model_persistence.ipynb)
 * [euclidean distance](37_sklearn/sklearn_distance.py)
+* [boston house-prices dataset for regression]()
 
 
 # 4. Feature Engineering
