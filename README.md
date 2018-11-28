@@ -304,7 +304,7 @@ Samples should be opened by ipython.
 * [flattern rgb](8_image_process/opencv/flattern_rgb/flattern_rgb.py)
 * [split rgb](8_image_process/opencv/flattern_rgb/split_rgb.py)
 * [find connected component](8_image_process/opencv/connected_component/connectedComponents.py)
-
+* [convert white color to green](8_image_process/opencv/white_color_to_green/)
 
 **Projects**
 * [defect detection](8_image_process/opencv/defect_detection/defect_detection.ipynb)
