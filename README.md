@@ -28,6 +28,7 @@ My machine learning code written by Python.
 * [random](1_numpy/np.random.ipynb)
 * [np.where to find index](1_numpy/npwhere.py)
 * [batch replace array values](1_numpy/np_batch_replace.py)
+* [np.split](1_numpy/npsplit.py)
 
 
 ## 2.2 matplotlib
