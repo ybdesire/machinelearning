@@ -29,7 +29,8 @@ My machine learning code written by Python.
 * [np.where to find index](1_numpy/npwhere.py)
 * [batch replace array values](1_numpy/np_batch_replace.py)
 * [np.split](1_numpy/npsplit.py)
-* [np.arrange](1_numpy/nparrange.py)
+* [np.arange](1_numpy/nparange.py)
+* [multi-index for 1d array](1_numpy/index_array_1d.py)
 
 
 ## 2.2 matplotlib
