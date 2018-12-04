@@ -63,6 +63,7 @@ My machine learning code written by Python.
 
 ## 2.4 pandas
 
+* [Series basic for pandas](26_pandas/basic_series.py)
 * [read csv and iterator row by row](26_pandas/read_csv/read_csv.py)
 * [read excel and iterator row by row](26_pandas/read_excel/read_excel.py)
 
