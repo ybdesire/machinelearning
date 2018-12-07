@@ -59,6 +59,7 @@ My machine learning code written by Python.
 * [sparse matrix basic](20_scipy/sparse_matrix.ipynb)
 * [gaussian filter](20_scipy/gaussian_filter.ipynb)
 * [get data distribution probability](20_scipy/get_list_norm_distribution_probability.ipynb)
+* [cdist euclidean]( 20_scipy/cdist_euclidean.py)
 
 
 ## 2.4 pandas
