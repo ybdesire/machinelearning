@@ -416,7 +416,7 @@ opencv 2.4.9 & windows-7
 # 7. NLP
 
 ## 7.1 nltk
-* [nltk basic](https://github.com/ybdesire/machinelearning/blob/master/9_NLP/3_nltk/nltk_intro.ipynb)
+* [nltk basic usage such as tokenize/tagging](9_NLP/3_nltk/basic_nltk.ipynb)
 
 
 ## 7.2 word2vec
