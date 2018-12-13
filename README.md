@@ -419,6 +419,7 @@ opencv 2.4.9 & windows-7
 * [nltk basic usage such as tokenize/tagging](9_NLP/3_nltk/basic_nltk.ipynb)
 * [nltk tag meaning en & zh](9_NLP/3_nltk/basic_nltk_tag.ipynb)
 * [identify named entities basic](9_NLP/3_nltk/basic_identify_named_entities.ipynb)
+* [nltk load and process built-in data/dataset/corpus](9_NLP/3_nltk/nltk_built-in_dataset.ipynb)
 
 
 
