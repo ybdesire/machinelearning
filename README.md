@@ -422,6 +422,7 @@ opencv 2.4.9 & windows-7
 * [nltk load and process built-in data/dataset/corpus](9_NLP/3_nltk/nltk_built-in_dataset.ipynb)
 * [nltk load and process external data/dataset/corpus](9_NLP/3_nltk/nltk_external_text.ipynb)
 * [normalizing text by stemmer](9_NLP/3_nltk/normalizing_text_stemmer.ipynb)
+* [normalizing text by lemmatization](9_NLP/3_nltk/normalizing_text_lemmatization.ipynb)
 
 
 
