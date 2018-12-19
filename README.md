@@ -424,7 +424,7 @@ opencv 2.4.9 & windows-7
 * [normalizing text by stemmer](9_NLP/3_nltk/normalizing_text_stemmer.ipynb)
 * [normalizing text by lemmatization](9_NLP/3_nltk/normalizing_text_lemmatization.ipynb)
 * [nltk.Text.similar](9_NLP/3_nltk/nltk.Text.similar.ipynb)
-
+* [more details about nltk.Text.similar](9_NLP/3_nltk/details_nltk.Text.similar.ipynb)
 
 
 
