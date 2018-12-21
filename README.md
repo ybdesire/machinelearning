@@ -265,6 +265,11 @@ Samples should be opened by ipython.
 * [decision tree ensembel with adaboost](37_sklearn/decision_tree_ensembel_with_adaboost.ipynb)
 
 
+## 3.12 jupyter
+* [timeit/time performance](44_jupyter/performance_time_timeit.ipynb)
+
+
+
 # 4. Feature Engineering
 
 ## 4.1 Working With Text Data
