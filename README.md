@@ -267,7 +267,7 @@ Samples should be opened by ipython.
 
 ## 3.12 jupyter
 * [timeit/time performance](44_jupyter/performance_time_timeit.ipynb)
-
+* [jupyter reload module](44_jupyter/auto_reload/jupyter_auto_reload.ipynb)
 
 
 # 4. Feature Engineering
