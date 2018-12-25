@@ -500,6 +500,6 @@ opencv 2.4.9 & windows-7
 * [gibberish text detection](9_NLP/gibberish_detection/gibberish_sentence_detection.ipynb)
 * [poker game AI](40_poker_ai/Readme.md)
 * [learn deeper for pklearn](40_poker_ai/learn_pklearn_deeper.ipynb)
-
+* [Industrial Control System ICS Cyber Attack](others/Industrial_Control_System_ICS_Cyber_Attack.ipynb)
 
 
