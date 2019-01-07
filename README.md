@@ -501,5 +501,5 @@ opencv 2.4.9 & windows-7
 * [poker game AI](40_poker_ai/Readme.md)
 * [learn deeper for pklearn](40_poker_ai/learn_pklearn_deeper.ipynb)
 * [Industrial Control System ICS Cyber Attack Dataset Classification](others/Industrial_Control_System_ICS_Cyber_Attack.ipynb)
-
+* [red wine quelity classification](others/wine_quality_classification.ipynb)
 
