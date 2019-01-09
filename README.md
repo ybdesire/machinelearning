@@ -69,6 +69,7 @@ My machine learning code written by Python.
 * [read csv and iterator row by row](26_pandas/read_csv/read_csv.py)
 * [read excel and iterator row by row](26_pandas/read_excel/read_excel.py)
 * [replace/fill all nan](26_pandas/fillnan.py)
+* [parse csv with special seperator](26_pandas/pandas_csv_special_seperator.ipynb)
 
 
 ## 2.5 seaborn
