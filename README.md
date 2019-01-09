@@ -293,6 +293,10 @@ Samples should be opened by ipython.
 * [feature selection by chi-square/chi2](43_feature_selection/fea_select_by_chi_squared.py)
 * [feature selection by recursive feature elimination/rfe](43_feature_selection/fea_select_by_rfe.py)
 
+## 4.5 imbalance data process
+* [RandomOverSampler for Imbalance Data](45_imblearn/oversampling.ipynb)
+
+
 
 # 5. Image process
 
