@@ -273,6 +273,11 @@ Samples should be opened by ipython.
 * [jupyter reload module](44_jupyter/auto_reload/jupyter_auto_reload.ipynb)
 
 
+## 3.13 mxnet
+
+* [array create/reshape/index](46_mxnet/NDArray/NDArrayBasic.ipynb)
+
+
 # 4. Feature Engineering
 
 ## 4.1 Working With Text Data
