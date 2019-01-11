@@ -275,7 +275,11 @@ Samples should be opened by ipython.
 
 ## 3.13 mxnet
 
+### 3.13.1 NDArray
+
 * [array create/reshape/index](46_mxnet/NDArray/NDArrayBasic.ipynb)
+* [array concat](46_mxnet/NDArrayConcat.ipynb)
+
 
 
 # 4. Feature Engineering
