@@ -279,7 +279,7 @@ Samples should be opened by ipython.
 
 * [array create/reshape/index](46_mxnet/NDArray/NDArrayBasic.ipynb)
 * [array concat](46_mxnet/NDArrayConcat.ipynb)
-
+* [array operation](46_mxnet/NDArrayOperation.ipynb)
 
 
 # 4. Feature Engineering
