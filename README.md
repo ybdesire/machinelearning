@@ -119,6 +119,7 @@ Samples should be opened by ipython.
 
 **XGBoost**
 * [Basic useage of XGB](https://github.com/ybdesire/machinelearning/blob/master/10_xgboost/easy_example/main.py)
+* [XGB for IRIS dataset](https://github.com/ybdesire/machinelearning/blob/master/10_xgboost/easy_example/xgb_iris.ipynb)
 * [XGB for kaggle digit recognition](https://github.com/ybdesire/machinelearning/blob/master/10_xgboost/xgboost_kaggle_digit_recognition.ipynb)
 
 
