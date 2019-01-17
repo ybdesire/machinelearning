@@ -517,4 +517,4 @@ opencv 2.4.9 & windows-7
 * [learn deeper for pklearn](40_poker_ai/learn_pklearn_deeper.ipynb)
 * [Industrial Control System ICS Cyber Attack Dataset Classification](others/Industrial_Control_System_ICS_Cyber_Attack.ipynb)
 * [red wine quelity classification](others/wine_quality_classification.ipynb)
-
+* [chemistry dataset tox21 test by chainer-chemistry](others/test_chainer-chemistry.ipynb)
