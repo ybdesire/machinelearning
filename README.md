@@ -71,6 +71,7 @@ My machine learning code written by Python.
 * [replace/fill all nan](26_pandas/fillnan.py)
 * [parse csv with special seperator](26_pandas/pandas_csv_special_seperator.ipynb)
 * [read csv without header](26_pandas/pandas_read_csv_without_header.ipynb)
+* [remove missing values row/column](26_pandas/pandas_remove_missing_values_row_column.ipynb)
 
 
 ## 2.5 seaborn
