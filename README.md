@@ -284,6 +284,7 @@ Samples should be opened by ipython.
 * [array concat](46_mxnet/NDArrayConcat.ipynb)
 * [array operation](46_mxnet/NDArrayOperation.ipynb)
 * [basic linear regression](46_mxnet/linear_regression_raw.ipynb)
+* [linear regression by gluon](46_mxnet/linear_regression_gluon.ipynb)
 
 
 # 4. Feature Engineering
