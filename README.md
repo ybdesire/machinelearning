@@ -66,6 +66,7 @@ My machine learning code written by Python.
 
 * [Series basic for pandas](26_pandas/basic_series.py)
 * [DataFrame basic for pandas](26_pandas/basic_dataframe.py)
+* [create DataFrame from list of data](26_pandas/create_dataframe_from_list.py)
 * [read csv and iterator row by row](26_pandas/read_csv/read_csv.py)
 * [read excel and iterator row by row](26_pandas/read_excel/read_excel.py)
 * [replace/fill all nan](26_pandas/fillnan.py)
