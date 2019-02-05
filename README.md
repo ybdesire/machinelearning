@@ -523,3 +523,7 @@ opencv 2.4.9 & windows-7
 * [Industrial Control System ICS Cyber Attack Dataset Classification](others/Industrial_Control_System_ICS_Cyber_Attack.ipynb)
 * [red wine quelity classification](others/wine_quality_classification.ipynb)
 * [chemistry dataset tox21 test by chainer-chemistry](others/test_chainer-chemistry.ipynb)
+* [spam email/sms classification](others/spam_email_classification/spam_email_classification.ipynb)
+
+
+
