@@ -524,6 +524,6 @@ opencv 2.4.9 & windows-7
 * [red wine quelity classification](others/wine_quality_classification.ipynb)
 * [chemistry dataset tox21 test by chainer-chemistry](others/test_chainer-chemistry.ipynb)
 * [spam email/sms classification](others/spam_email_classification/spam_email_classification.ipynb)
-
+* [jaychou text generate by lstm](others/jaychou_text_generate_lstm/jaychou_generate.ipynb)
 
 
