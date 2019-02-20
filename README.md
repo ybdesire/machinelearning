@@ -312,6 +312,10 @@ Samples should be opened by ipython.
 ## 4.5 imbalance data process
 * [RandomOverSampler for Imbalance Data](45_imblearn/oversampling.ipynb)
 
+## 4.6 missing values
+* [insert mean value for missing values](37_sklearn/preprocess/missing_value_mean_input.py)
+
+
 
 
 # 5. Image process
