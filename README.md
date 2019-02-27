@@ -317,7 +317,7 @@ Samples should be opened by ipython.
 * [count null/missing_value item for each column](26_pandas/null_value/column_null_count.py)
 * [drop the column if it contains one missing_value](26_pandas/null_value/drop_null_column.py)
 * [drop the column if the missing_value count > 0.5*full_count](26_pandas/null_value/drop_null_half_column.py)
-
+* [check the data with null data > 20%](26_pandas/null_value/column_null_count_rate.py)
 * [insert mean value for missing values](37_sklearn/preprocess/missing_value_mean_input.py)
 
 
