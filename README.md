@@ -156,7 +156,12 @@ Samples should be opened by ipython.
 
 ## 3.2 Un-Supervised Learning
 
+### 3.2.1 HMM
 * [HMM basic](https://github.com/ybdesire/machinelearning/blob/master/15_HMM/basic_hmm.ipynb)
+* HMM application
+   * https://www.cnblogs.com/wangzming/p/7512607.html
+   * https://zhuanlan.zhihu.com/p/20688517
+
 
 ### 3.2.1 Cluster
 
