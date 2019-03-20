@@ -74,6 +74,10 @@ My machine learning code written by Python.
 * [read csv without header](26_pandas/pandas_read_csv_without_header.ipynb)
 * [remove missing values row/column](26_pandas/pandas_remove_missing_values_row_column.ipynb)
 * [null/missing values](26_pandas/null_value)
+* [data merge](26_pandas/movielens_data_analysis/data_merge_by_pandas.py)
+* [data sort by count](26_pandas/movielens_data_analysis/sort_top_20_counts.py)
+* [data sort by mean](26_pandas/movielens_data_analysis/get_top_20_high_rating.py)
+
 
 
 ## 2.5 seaborn
