@@ -280,6 +280,7 @@ Samples should be opened by ipython.
 * [decision tree ensembel with adaboost](37_sklearn/decision_tree_ensembel_with_adaboost.ipynb)
 * [kmeans cluster](37_sklearn/kmeans_sklearn.py)
 * [mini batch kmeans cluster](37_sklearn/mini_batch_kmeans_sklearn.py)
+* [random forest grid search](37_sklearn/randomforest_gridsearch.ipynb)
 
 
 ## 3.12 jupyter
