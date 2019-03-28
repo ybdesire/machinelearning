@@ -77,6 +77,7 @@ My machine learning code written by Python.
 * [data merge](26_pandas/movielens_data_analysis/data_merge_by_pandas.py)
 * [data sort by count](26_pandas/movielens_data_analysis/sort_top_20_counts.py)
 * [data sort by mean](26_pandas/movielens_data_analysis/get_top_20_high_rating.py)
+* [modify string to int for each column data](26_pandas/replace_column_value.py)
 
 
 
