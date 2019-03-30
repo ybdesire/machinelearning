@@ -523,8 +523,16 @@ opencv 2.4.9 & windows-7
 * [get video fps by opencv py3]( 42_video/opencv/get_mp4_fps.py )
 
 
+# 11. recommandation system
 
-# 11. other machine learning related algorithm
+## 11.1 surprise
+
+* [load local dataset by pandas](47_surprise/load_local_dataset_by_pandas.py)
+
+
+
+
+# 12. other machine learning related algorithm
 * [correlation analysis](ml_related_alg/correlation_analysis.ipynb)
 * [association analysis](ml_related_alg/association_analysis/association_analysis.ipynb)
 * [jaccard similarity](19_model_evaluate_selection/jaccard_similarity.ipynb)
@@ -535,7 +543,7 @@ opencv 2.4.9 & windows-7
 
 
 
-# 12. Small project/features
+# 13. Small project/features
 
 * [Human face image completion](https://github.com/ybdesire/machinelearning/blob/master/8_image_process/image_completion_face.ipynb)
 * [Human detection by opencv hug & svm](8_image_process/opencv/image_human_detection/human_detection.ipynb)
