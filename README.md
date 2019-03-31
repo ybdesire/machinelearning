@@ -528,6 +528,7 @@ opencv 2.4.9 & windows-7
 ## 11.1 surprise
 
 * [load local dataset by pandas](47_surprise/load_local_dataset_by_pandas.py)
+* [load local dataset by surprise](47_surprise/load_local_dataset_by_surprise.py)
 
 
 
