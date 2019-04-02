@@ -530,6 +530,7 @@ opencv 2.4.9 & windows-7
 * [load local dataset by pandas](47_surprise/load_local_dataset_by_pandas.py)
 * [load local dataset by surprise](47_surprise/load_local_dataset_by_surprise.py)
 * [load buidin dataset by surprise](47_surprise/load_buildin_dataset_by_surprise.py)
+* [ml-100k dataset movie name to id, or id to movie](47_surprise/id_name_by_pandas.py)
 
 
 
