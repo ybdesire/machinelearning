@@ -532,6 +532,7 @@ opencv 2.4.9 & windows-7
 * [load buidin dataset by surprise](47_surprise/load_buildin_dataset_by_surprise.py)
 * [ml-100k dataset movie name to id, or id to movie](47_surprise/id_name_by_pandas.py)
 * [basic/official example](47_surprise/basic_but_with_full_func_surprise.py)
+* [basic algorithm and testing for local data](47_surprise/basic_alg_test_local_data_surprise.py)
 
 
 
