@@ -533,6 +533,7 @@ opencv 2.4.9 & windows-7
 * [ml-100k dataset movie name to id, or id to movie](47_surprise/id_name_by_pandas.py)
 * [basic/official example](47_surprise/basic_but_with_full_func_surprise.py)
 * [basic algorithm and testing for local data](47_surprise/basic_alg_test_local_data_surprise.py)
+* [predict rating for test dataset](47_surprise/predict_rating_for_test_dataset.py)
 
 
 
