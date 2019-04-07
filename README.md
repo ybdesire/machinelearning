@@ -538,8 +538,6 @@ opencv 2.4.9 & windows-7
 * [item based collaborative filtering and predict one item rating](47_surprise/item_based_cf.py)
 
 
-
-
 # 12. other machine learning related algorithm
 * [correlation analysis](ml_related_alg/correlation_analysis.ipynb)
 * [association analysis](ml_related_alg/association_analysis/association_analysis.ipynb)
