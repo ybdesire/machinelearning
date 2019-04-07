@@ -535,6 +535,7 @@ opencv 2.4.9 & windows-7
 * [basic algorithm and testing for local data](47_surprise/basic_alg_test_local_data_surprise.py)
 * [predict rating for test dataset](47_surprise/predict_rating_for_test_dataset.py)
 * [user based collaborative filtering and predict one item rating](47_surprise/user_based_cf.py)
+* [item based collaborative filtering and predict one item rating](47_surprise/item_based_cf.py)
 
 
 
