@@ -285,7 +285,7 @@ Samples should be opened by ipython.
 * [random forest grid search](37_sklearn/randomforest_gridsearch.ipynb)
 * [logloss](37_sklearn/sklearn_logloss.ipynb)
 * [GMM cluster](37_sklearn/gmm_cluster.ipynb)
-
+* [TSNE/T-SNE plot](37_sklearn/tsne_iris_sklearn.ipynb)
 
 
 ## 3.12 jupyter
