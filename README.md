@@ -536,6 +536,9 @@ opencv 2.4.9 & windows-7
 * [predict rating for test dataset](47_surprise/predict_rating_for_test_dataset.py)
 * [user based collaborative filtering and predict one item rating](47_surprise/user_based_cf.py)
 * [item based collaborative filtering and predict one item rating](47_surprise/item_based_cf.py)
+* [top-n recommandation for buildin data](47_surprise/top_n_recommend_buildin_data_surprise.py)
+* [top-n recommandation for local data](47_surprise/top_n_recommend_local_data_surprise.py)
+* [SVD collaborative filtering](47_surprise/svd_cf.py)
 
 
 # 12. other machine learning related algorithm
