@@ -287,7 +287,7 @@ Samples should be opened by ipython.
 * [logloss](37_sklearn/sklearn_logloss.ipynb)
 * [GMM cluster](37_sklearn/gmm_cluster.ipynb)
 * [TSNE/T-SNE plot](37_sklearn/tsne_iris_sklearn.ipynb)
-
+* [F1-P-R calculation for multi-class output by sklearn]()
 
 ## 3.12 jupyter
 * [timeit/time performance](44_jupyter/performance_time_timeit.ipynb)
