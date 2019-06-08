@@ -251,6 +251,7 @@ Samples should be opened by ipython.
 * [adam optimization](25_keras/keras_adam_optimization.ipynb)
 * [validation](25_keras/keras_validation_split.ipynb)
 * [param of model.summary](25_keras/how_to_understand_params.ipynb)
+* [keras fixed model random seed](25_keras/keras_fixed_model_random_seed.ipynb)
 
 
 ### 3.7.2 models
@@ -287,7 +288,8 @@ Samples should be opened by ipython.
 * [logloss](37_sklearn/sklearn_logloss.ipynb)
 * [GMM cluster](37_sklearn/gmm_cluster.ipynb)
 * [TSNE/T-SNE plot](37_sklearn/tsne_iris_sklearn.ipynb)
-* [F1-P-R calculation for multi-class output by sklearn]()
+* [F1-P-R calculation for multi-class output by sklearn](37_sklearn/F1-P-R+calculation+for+multi-class+output+by+sklearn.ipynb)
+
 
 ## 3.12 jupyter
 * [timeit/time performance](44_jupyter/performance_time_timeit.ipynb)
