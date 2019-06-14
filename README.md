@@ -307,6 +307,11 @@ Samples should be opened by ipython.
 * [linear regression by gluon](46_mxnet/linear_regression_gluon.ipynb)
 
 
+### 3.13.2 Basic
+
+* [get dataset fashion mnist](46_mxnet/dataset_fashion_mnist.ipynb)
+
+
 # 4. Feature Engineering
 
 ## 4.1 Working With Text Data
