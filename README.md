@@ -310,6 +310,7 @@ Samples should be opened by ipython.
 ### 3.13.2 Basic
 
 * [get dataset fashion mnist](46_mxnet/dataset_fashion_mnist.ipynb)
+* [softmax regression by gloun](46_mxnet/softmax_regression_gloun.ipynb)
 
 
 # 4. Feature Engineering
