@@ -289,6 +289,7 @@ Samples should be opened by ipython.
 * [GMM cluster](37_sklearn/gmm_cluster.ipynb)
 * [TSNE/T-SNE plot](37_sklearn/tsne_iris_sklearn.ipynb)
 * [F1-P-R calculation for multi-class output by sklearn](37_sklearn/F1-P-R+calculation+for+multi-class+output+by+sklearn.ipynb)
+* [Isomap plot](37_sklearn/dimensionality_reduction_Isomap.ipynb	)
 
 
 ## 3.12 jupyter
