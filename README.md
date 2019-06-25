@@ -31,6 +31,7 @@ My machine learning code written by Python.
 * [np.split](1_numpy/npsplit.py)
 * [np.arange](1_numpy/nparange.py)
 * [multi-index for 1d array](1_numpy/index_array_1d.py)
+* [polynomial fit](1_numpy/polynomial_fit.ipynb)
 
 
 ## 2.2 matplotlib
