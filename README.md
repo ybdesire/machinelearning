@@ -318,6 +318,7 @@ Samples should be opened by ipython.
 * [softmax regression by gloun](46_mxnet/softmax_regression_gloun.ipynb)
 * [plot activation relu/sigmoid with gradient](46_mxnet/plot_activation_func.ipynb)
 * [mlp and model parameter access](46_mxnet/mlp.ipynb)
+* [CNN LeNet](46_mxnet/cnn_lenet.ipynb)
 
 
 # 4. Feature Engineering
