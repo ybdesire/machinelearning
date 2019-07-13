@@ -319,6 +319,7 @@ Samples should be opened by ipython.
 * [plot activation relu/sigmoid with gradient](46_mxnet/plot_activation_func.ipynb)
 * [mlp and model parameter access](46_mxnet/mlp.ipynb)
 * [CNN LeNet](46_mxnet/cnn_lenet.ipynb)
+* [dataset jaychou](46_mxnet/dataset_jaychou.ipynb)
 
 
 # 4. Feature Engineering
