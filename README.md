@@ -512,6 +512,14 @@ opencv 2.4.9 & windows-7
 * [tfidf/tf-idf](9_NLP/4_gensim/tfidf.py)
 
 
+## 7.6 AllenNLP
+
+* [install allennlp](48_allennlp/readme.md)
+* [NER by biLSTM with CRF layer and ELMo embeddingstrained on the CoNLL-2003 NER dataset 2018](48_allennlp/ner_basic.py)
+* [fact predict by trained decomposable attention model 2017](48_allennlp/fact_predict.py)
+
+
+
 # 8. Audio
 
 ## 8.1 pyAudioAnalysis
