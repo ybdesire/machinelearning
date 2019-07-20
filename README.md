@@ -320,6 +320,7 @@ Samples should be opened by ipython.
 * [mlp and model parameter access](46_mxnet/mlp.ipynb)
 * [CNN LeNet](46_mxnet/cnn_lenet.ipynb)
 * [dataset jaychou](46_mxnet/dataset_jaychou.ipynb)
+* [generate jay text by rnn](46_mxnet/rnn_generate_jaychou.ipynb)
 
 
 # 4. Feature Engineering
