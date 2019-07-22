@@ -520,6 +520,10 @@ opencv 2.4.9 & windows-7
 * [question answer from passage by BiDAF 2017](48_allennlp/question_answer_passage.py)
 
 
+## 7.7 Spacy
+
+* [NER by spacy](49_spacy/ner_spacy_en.ipynb)
+
 
 # 8. Audio
 
