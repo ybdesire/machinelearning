@@ -18,3 +18,5 @@ print(df)
 1   2   2   2   2
 2   3   3   3   3
 '''
+
+df.to_excel('output.xlsx')# can also to_csv()
