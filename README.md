@@ -525,6 +525,11 @@ opencv 2.4.9 & windows-7
 * [NER by spacy](49_spacy/ner_spacy_en.ipynb)
 
 
+## 7.8 gensim
+
+[Latent Dirichlet Allocation，LDA Model](50_gensim/lda_model.ipynb)
+
+
 # 8. Audio
 
 ## 8.1 pyAudioAnalysis
