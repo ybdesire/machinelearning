@@ -527,7 +527,8 @@ opencv 2.4.9 & windows-7
 
 ## 7.8 gensim
 
-[Latent Dirichlet Allocation，LDA Model](50_gensim/lda_model.ipynb)
+* [Latent Dirichlet Allocation，LDA Model](50_gensim/lda_model.ipynb)
+* [doc to BOW features](50_gensim/doc_2_bow_zh.ipynb)
 
 
 # 8. Audio
