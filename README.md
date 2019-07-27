@@ -321,6 +321,7 @@ Samples should be opened by ipython.
 * [CNN LeNet](46_mxnet/cnn_lenet.ipynb)
 * [dataset jaychou](46_mxnet/dataset_jaychou.ipynb)
 * [generate jay text by rnn](46_mxnet/rnn_generate_jaychou.ipynb)
+* [compute gradient](46_mxnet/compute_gradient.ipynb)
 
 
 # 4. Feature Engineering
