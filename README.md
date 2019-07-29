@@ -531,6 +531,13 @@ opencv 2.4.9 & windows-7
 * [doc to BOW features](50_gensim/doc_2_bow_zh.ipynb)
 
 
+## 7.9 keras-bert
+
+* [Get text embeddings by pretrained BERT model](51_bert/keras_bert_pretrained_model.ipynb)
+
+
+
+
 # 8. Audio
 
 ## 8.1 pyAudioAnalysis
