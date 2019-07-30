@@ -81,6 +81,7 @@ My machine learning code written by Python.
 * [data sort by mean](26_pandas/movielens_data_analysis/get_top_20_high_rating.py)
 * [modify string to int for each column data](26_pandas/replace_column_value.py)
 * [count special column values distribution](26_pandas/value_count.py)
+* [write excel to multiple sheets](26_pandas/excel_to_multi_sheet.ipynb)
 
 
 
