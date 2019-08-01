@@ -62,6 +62,7 @@ My machine learning code written by Python.
 * [get data distribution probability](20_scipy/get_list_norm_distribution_probability.ipynb)
 * [cdist euclidean]( 20_scipy/cdist_euclidean.py)
 * [downsample/down-sample data](https://github.com/ybdesire/machinelearning/blob/master/20_scipy/re-sample%2Bor%2Bdown-sample.ipynb)
+* [optimize with constraints equal](20_scipy/scipy_optimize_with_constraints_eq.ipynb)
 
 
 ## 2.4 pandas
