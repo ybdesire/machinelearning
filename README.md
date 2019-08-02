@@ -525,6 +525,7 @@ opencv 2.4.9 & windows-7
 ## 7.7 Spacy
 
 * [NER by spacy](49_spacy/ner_spacy_en.ipynb)
+* [Tokenization with Part-of-speech (POS) Tagging](49_spacy/tokenization_pos_tag.ipynb)
 
 
 ## 7.8 gensim
