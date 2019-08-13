@@ -201,3 +201,7 @@ python  mrjobtest.py  test.txt
 "wray"  1
 "year"  1
 ```
+
+# understand the code process
+
+https://mrjob.readthedocs.io/en/stable/guides/concepts.html
