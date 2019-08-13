@@ -474,6 +474,10 @@ opencv 2.4.9 & windows-7
 
 * [HDFS basic operation at single node cluster](https://github.com/ybdesire/machinelearning/tree/master/17_hadoop/env_setup_cluster_singlenode#9-hdfs-operation)
 
+### 6.2.4 mrjob
+* [word count for mrjob map reduce basic](17_hadoop/mrjob/word_count/main.py)
+
+
 
 # 7. NLP
 
