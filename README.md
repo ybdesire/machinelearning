@@ -84,6 +84,7 @@ My machine learning code written by Python.
 * [count special column values distribution](26_pandas/value_count.py)
 * [write excel to multiple sheets](26_pandas/excel_to_multi_sheet.ipynb)
 * [merge two df: hstack](26_pandas/hstack.ipynb)
+* [merge two df: vstack](26_pandas/vstack.ipynb)
 
 
 ## 2.5 seaborn
