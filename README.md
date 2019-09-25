@@ -50,6 +50,7 @@ My machine learning code written by Python.
 * [plot x/y/title label with font_size](3_matplotlib/plot_label_with_size.ipynb)
 * [sub-plot](3_matplotlib/sub_plot.ipynb)
 * [set x/y axes limits](3_matplotlib/matplotlib_set_xy_axes_limits.ipynb)
+* [add legend](3_matplotlib/add_legend.py)
 
 
 
