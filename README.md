@@ -552,7 +552,8 @@ opencv 2.4.9 & windows-7
 
 * [Get text embeddings by pretrained BERT model](51_bert/keras_bert_pretrained_model.ipynb)
 
-
+## 7.10 wordcloud
+* [plot wordcloud basic]( 52_wordcloud/wordcloud_basic.ipynb)
 
 
 # 8. Audio
