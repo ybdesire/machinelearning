@@ -51,7 +51,7 @@ My machine learning code written by Python.
 * [sub-plot](3_matplotlib/sub_plot.ipynb)
 * [set x/y axes limits](3_matplotlib/matplotlib_set_xy_axes_limits.ipynb)
 * [add legend](3_matplotlib/add_legend.py)
-
+* [plot multi-lines with labels for each line](3_matplotlib/plot_multi_lines_with_label.ipynb)
 
 
 ## 2.3 scipy
