@@ -621,3 +621,11 @@ opencv 2.4.9 & windows-7
 * [jaychou text generate by lstm](others/jaychou_text_generate_lstm/jaychou_generate.ipynb)
 
 
+# 14. related tools
+
+## 14.1 conda
+
+* [create env, delete env](53_conda/create_delete_env.md)
+* [export env to yml, create env from yml](53_conda/export_create_env_yml.md)
+
+
