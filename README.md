@@ -630,3 +630,8 @@ opencv 2.4.9 & windows-7
 * [export env to yml, create env from yml](53_conda/export_create_env_yml.md)
 
 
+# 15. front-end AI
+
+## 15.1 JS access camera
+
+* [js open camera and take photo](54_js_ai/js_get_camera_video/open_camera_and_take_photo.html)
