@@ -635,3 +635,10 @@ opencv 2.4.9 & windows-7
 ## 15.1 JS access camera
 
 * [js open camera and take photo](54_js_ai/js_get_camera_video/open_camera_and_take_photo.html)
+
+## 15.2 face-api.js
+
+* [run face-api.js examples]()
+
+
+
