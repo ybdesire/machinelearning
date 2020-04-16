@@ -469,6 +469,11 @@ opencv 2.4.9 & windows-7
 * [recommandation system](https://github.com/ybdesire/machinelearning/blob/master/16_spark/recommendation_system/basic_recommendation_system.ipynb)
 * [kmeans at cluster](https://github.com/ybdesire/machinelearning/blob/master/16_spark/spark_mllib/kmeans_run_cluster)
 
+### 6.1.6 spark at aws emr
+* [steps to create/run spark code at emr](16_spark/spark_at_aws_emr/readme.md)
+
+
+
 ## 6.2 Hadoop
 
 ### 6.2.1 Environment Setup
