@@ -180,6 +180,9 @@ Samples should be opened by ipython.
 * [kNN by lib sklearn](https://github.com/ybdesire/machinelearning/blob/master/2_knn/KNeighborsClassifier.ipynb)
 * [kNN cluster example](https://github.com/ybdesire/machinelearning/blob/master/12_cluster/KNN.ipynb)
 
+**DBSCAN**
+* [dbscan with precomputed metric](37_sklearn/sklearn_dbscan_distance_matrix_pre_computed.ipynb)
+
 ### 3.2.2 PCA
 * [pca algorithm](https://github.com/ybdesire/machinelearning/blob/master/13_data_compression/PCA_demo.ipynb)
 
