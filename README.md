@@ -198,6 +198,7 @@ Samples should be opened by ipython.
 * [Logloss](19_model_evaluate_selection/onehot_logloss.ipynb)
 * [classification report](19_model_evaluate_selection/classification_report.ipynb)
 * [feature selection by feature importance](19_model_evaluate_selection/feature_selection_by_importance.ipynb)
+* [homogeneity & completeness & v_measure for unsupervised learning cluster evaluation metric](12_cluster/unsupervised_learning_metrics.ipynb)
 
 
 ## 3.4 Model selection
