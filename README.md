@@ -565,6 +565,9 @@ opencv 2.4.9 & windows-7
 ## 7.10 wordcloud
 * [plot wordcloud basic]( wordcloud/wordcloud_basic.ipynb)
 
+## 7.11 wordnet
+* [wordnet basic and environment setup](wordnet/wordnet_basic_and_env_setup)
+
 
 # 8. Audio
 
