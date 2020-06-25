@@ -568,6 +568,8 @@ opencv 2.4.9 & windows-7
 ## 7.11 wordnet
 * [wordnet basic and environment setup](wordnet/wordnet_basic_and_env_setup)
 
+## 7.12 NER
+* [BiLSTM-CRF-NER](bilstm_crf_ner)
 
 # 8. Audio
 
