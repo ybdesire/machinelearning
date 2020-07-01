@@ -634,7 +634,7 @@ opencv 2.4.9 & windows-7
 * [chemistry dataset tox21 test by chainer-chemistry](others/test_chainer-chemistry.ipynb)
 * [spam email/sms classification](others/spam_email_classification/spam_email_classification.ipynb)
 * [jaychou text generate by lstm](others/jaychou_text_generate_lstm/jaychou_generate.ipynb)
-
+* [SI/SIR model by scipy](related_alg/si_sir_simulation.ipynb)
 
 # 14. related tools
 
