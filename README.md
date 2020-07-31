@@ -525,6 +525,8 @@ opencv 2.4.9 & windows-7
 * [preprocess for en text](https://github.com/ybdesire/machinelearning/blob/master/NLP/preprocess_en_text/Basic_Preprocess_En.ipynb)
 * [Bags of words feature](https://github.com/ybdesire/machinelearning/blob/master/text_feature/extract_mine_strings_feature.ipynb)
 * [TF, TF-IDF feature](https://github.com/ybdesire/machinelearning/blob/master/text_feature/extract_mine_strings_feature.ipynb)
+* [basic text clean](NLP/preprocess_en_text/text_clean.py)
+
 
 ## 7.4 keyword & abstract extraction
 
