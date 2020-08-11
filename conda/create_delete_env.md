@@ -16,3 +16,10 @@ conda env remove --name myenv
 ```
 conda create --name <env_name> --clone base
 ```
+
+4. set conda source
+```
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config --set show_channel_urls yes
+```
