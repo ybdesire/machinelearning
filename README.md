@@ -272,6 +272,7 @@ Samples should be opened by ipython.
 * [RNN by keras](keras/keras_rnn.ipynb)
 * [RESNET-50 by keras](keras/keras_resnet50.ipynb)
 * [LSTM](keras/keras_lstm.ipynb)
+* [LSTM+Attention](attention/multi-head-attention-test.ipynb)
 
 
 ## 3.8 theano
