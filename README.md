@@ -583,6 +583,9 @@ opencv 2.4.9 & windows-7
 * [audio feature extraction](pyaudioanalysis/fea_extraction.py)
 * [extract same length features for different audio](pyaudioanalysis/fea_extract_with_same_length.py)
 
+## 8.2 signal data augmentation
+* [add gaussian noise](numpy/gaussian_noise.ipynb)
+
 
 # 9. GPU
 
