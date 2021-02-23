@@ -275,6 +275,10 @@ Samples should be opened by ipython.
 * [LSTM+Attention](attention/multi-head-attention-test.ipynb)
 * [complex attention models](attention/multi-head-attention-complex-structure.ipynb)
 
+### 3.7.3 complex
+
+* [get middle layer output](keras/dnn_get_specific_layer_output.ipynb)
+
 
 ## 3.8 theano
 * [Install theano at win](theano/install/install_theano_at_win.md)
