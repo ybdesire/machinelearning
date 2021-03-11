@@ -94,6 +94,7 @@ My machine learning code written by Python.
 
 * [hotmap for confusion matrix](seaborn/confusion_matrix_heap_map.ipynb)
 * [seaborn clustermap](seaborn/seaborn_clustermap.ipynb)
+* [catplot](seaborn/seaborn_catplot.ipynb)
 
 
 # 3. ML algorithms
