@@ -599,7 +599,7 @@ opencv 2.4.9 & windows-7
 * [GPU vs CPU basic](gpu_related/gpu_vs_cpu_basic.ipynb)
 * [check GPU hardware status](gpu_related/check_gpu_status.md)
 * [check if keras/tensorflow run on GPU](gpu_related/check_if_keras_tensorflow_run_on_gpu/Readme.md)
- 
+* [矩池云GPU](https://www.matpool.com/) 
 
 # 10. Video
 * [read mp4 by opencv py3]( video/opencv/read_video_py3.py )
