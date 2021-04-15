@@ -519,7 +519,7 @@ opencv 2.4.9 & windows-7
 * [nltk.Text.similar](NLP/3_nltk/nltk.Text.similar.ipynb)
 * [more details about nltk.Text.similar](NLP/3_nltk/details_nltk.Text.similar.ipynb)
 * [sentiment analysis](NLP/sentiment_analysis.ipynb)
-
+* [offline isntall nltk_data](https://blog.csdn.net/qq_43140627/article/details/103895811)
 
 
 ## 7.2 word2vec
