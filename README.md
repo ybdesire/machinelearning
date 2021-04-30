@@ -65,6 +65,7 @@ My machine learning code written by Python.
 * [cdist euclidean]( scipy/cdist_euclidean.py)
 * [downsample/down-sample data](https://github.com/ybdesire/machinelearning/blob/master/scipy/re-sample%2Bor%2Bdown-sample.ipynb)
 * [optimize with constraints equal](scipy/scipy_optimize_with_constraints_eq.ipynb)
+* [load matlab mat file then fft](scipy/load_matlab_mat_file_then_fft.ipynb)
 
 
 ## 2.4 pandas
