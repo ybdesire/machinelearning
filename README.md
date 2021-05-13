@@ -669,4 +669,7 @@ opencv 2.4.9 & windows-7
 * [run face-api.js examples]()
 
 
+# 16. D3.js
+* [tutorials and referencs](d3/1.basic)
+* [js, select, svg basics](d3/1.basic)
 
