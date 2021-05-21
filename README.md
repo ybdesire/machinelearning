@@ -582,6 +582,10 @@ opencv 2.4.9 & windows-7
 ## 7.12 NER
 * [BiLSTM-CRF-NER](bilstm_crf_ner)
 
+## 7.13 LDA
+* [LDA of sklearn](sklearn/lda_topic_model_by_sklearn.ipynb)
+
+
 # 8. Audio
 
 ## 8.1 pyAudioAnalysis
