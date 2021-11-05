@@ -682,3 +682,5 @@ opencv 2.4.9 & windows-7
 # 17. LOFO
 * [get feature importance by LOFO and FastLOFO](lofo/lofo_feature_importance.ipynb)
 
+# 18. vaderSentiment
+* [sentiment analysis by the lib](https://github.com/ybdesire/machinelearning/blob/master/vaderSentiment/vaderSentiment.ipynb)
