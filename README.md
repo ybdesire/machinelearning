@@ -277,6 +277,8 @@ Samples should be opened by ipython.
 * [LSTM](keras/keras_lstm.ipynb)
 * [LSTM+Attention](attention/multi-head-attention-test.ipynb)
 * [complex attention models](attention/multi-head-attention-complex-structure.ipynb)
+* [BI-LSTM](keras/keras_bilstm_example.py)
+
 
 ### 3.7.3 complex
 
