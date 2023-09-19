@@ -686,3 +686,8 @@ opencv 2.4.9 & windows-7
 
 # 18. vaderSentiment
 * [sentiment analysis by the lib](https://github.com/ybdesire/machinelearning/blob/master/vaderSentiment/vaderSentiment.ipynb)
+
+
+# 19. offline deployment
+
+1. [build sklearn model and py files to elf](pyinstaller_model_package/)
