@@ -691,3 +691,7 @@ opencv 2.4.9 & windows-7
 # 19. offline deployment
 
 1. [build sklearn model and py files to elf](pyinstaller_model_package/)
+
+
+# 20. keras-nlp
+*[keras-nlp dataset and classifier basic demo](keras-nlp-text-classification.ipynb)
